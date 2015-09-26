@@ -1,12 +1,15 @@
 # Site settings
 title: Alexander Pyatkin
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+description: |
+    Hello there!
+    My name is Alexander Pyatkin.
+    I come from Samara, Russia.
+    I work at Indigo Byte Systems, LLC on Dr.Explain and Tiwri.com.
+baseurl: ""
+url:
+    development: https://aspyatkin-dev.com
+    production: https://aspyatkin.com
+
 twitter_username: aspyatkin
 github_username:  aspyatkin
 
