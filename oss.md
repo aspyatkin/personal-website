@@ -28,6 +28,7 @@ I love open source! I have several projects on my own as well as contributions t
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs){:target="_blank"}  
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios){:target="_blank"}  
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs){:target="_blank"}  
+- [iCHAIT/awesome-osx](https://github.com/iCHAIT/awesome-osx){:target="_blank"}  
 
 **Shell**  
 - [sindresorhus/pure](https://github.com/sindresorhus/pure){:target="_blank"}  
