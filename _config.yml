@@ -7,7 +7,7 @@ description: |
     I work at Indigo Byte Systems, LLC on Dr.Explain and Tiwri.com.
 baseurl: ""
 url:
-    development: https://aspyatkin-dev.com
+    development: https://aspyatkin.dev
     production: https://aspyatkin.com
 
 twitter_username: aspyatkin
@@ -22,3 +22,4 @@ exclude:
   - README.md
   - LICENSE
   - logs
+  - letsencrypt
