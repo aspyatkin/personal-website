@@ -44,12 +44,12 @@ I love open source! I have several projects on my own as well as contributions t
 ## My own projects
 My own projects are mostly related to organizing [CTF](https://en.wikipedia.org/wiki/Capture_the_flag){:target="_blank"} contests.  
 
-**VolgaCTF 2015 Quals**  
-- [themis-quals-core](https://github.com/aspyatkin/themis-quals-core){:target="_blank"} -- website API (CoffeeScript)  
-- [themis-quals-website](https://github.com/aspyatkin/themis-quals-website){:target="_blank"} -- website assets (CoffeeScript, SASS)  
-- [themis-quals-vagrant](https://github.com/aspyatkin/themis-quals-vagrant){:target="_blank"} -- [Vagrant](https://www.vagrantup.com){:target="_blank"} development environment and [SaltStack](https://github.com/saltstack/salt){:target="_blank"} configuration for the server  
+**VolgaCTF Quals**  
+- [themis-quals-backend](https://github.com/aspyatkin/themis-quals-backend){:target="_blank"} -- website backend (CoffeeScript)  
+- [themis-quals-frontend](https://github.com/aspyatkin/themis-quals-frontend){:target="_blank"} -- website frontend (CoffeeScript, SASS)  
+- [themis-quals-infrastructure](https://github.com/aspyatkin/themis-quals-infrastructure){:target="_blank"} -- [Vagrant](https://www.vagrantup.com){:target="_blank"} development environment and [Chef](https://www.chef.io/){:target="_blank"} configuration for the server  
 
-**VolgaCTF 2015 Finals**  
+**VolgaCTF Finals**  
 - [themis-finals](https://github.com/aspyatkin/themis-finals){:target="_blank"} -- CTF contest checking system (Ruby, JavaScript)  
 - [themis-finals-infrastructure](https://github.com/aspyatkin/themis-finals-infrastructure){:target="_blank"} -- Chef Solo configuration to set up Themis Finals contest checking system  
 - [themis-finals-guidelines](https://github.com/aspyatkin/themis-finals-guidelines){:target="_blank"} -- Guidelines for getting Themis Finals up and running  
