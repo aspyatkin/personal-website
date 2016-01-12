@@ -40,6 +40,7 @@ I love open source! I have several projects on my own as well as contributions t
 - [sindresorhus/text-extensions](https://github.com/sindresorhus/text-extensions){:target="_blank"}  
 - [kevva/github-branches](https://github.com/kevva/github-branches){:target="_blank"}  
 - [mitsuhiko/click](https://github.com/mitsuhiko/click){:target="_blank"}  
+- [drduh/OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide){:target="_blank"}  
 
 ## My own projects
 My own projects are mostly related to organizing [CTF](https://en.wikipedia.org/wiki/Capture_the_flag){:target="_blank"} contests.  
