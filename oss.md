@@ -60,3 +60,5 @@ My own projects are mostly related to organizing [CTF](https://en.wikipedia.org/
 **Other**  
 - [dotfiles](https://github.com/aspyatkin/dotfiles){:target="_blank"} -- my own [dotfiles](http://dotfiles.github.io){:target="_blank"}  
 - [blank](https://github.com/aspyatkin/blank"){:target="_blank"} -- a custom theme for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh){:target="_blank"}  
+- [vagrant-helpers](https://github.com/aspyatkin/vagrant-helpers){:target="_blank"} -- [Vagrant](https://www.vagrantup.com) environment customization helpers  
+- [devcert](https://github.com/aspyatkin/devcert){:target="_blank"} -- A tool for creation X509 certificates without a hassle  
