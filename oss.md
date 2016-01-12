@@ -64,3 +64,8 @@ My own projects are mostly related to organizing [CTF](https://en.wikipedia.org/
 - [blank](https://github.com/aspyatkin/blank"){:target="_blank"} -- a custom theme for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh){:target="_blank"}  
 - [vagrant-helpers](https://github.com/aspyatkin/vagrant-helpers){:target="_blank"} -- [Vagrant](https://www.vagrantup.com) environment customization helpers  
 - [devcert](https://github.com/aspyatkin/devcert){:target="_blank"} -- A tool for creation X509 certificates without a hassle  
+
+**Gists**  
+ - [Installing Ruby 2.2.4 on Cygwin x64](https://gist.github.com/aspyatkin/2a1305cceb9101caa2f6){:target="_blank"}  
+ - [Installing Ruby 2.3.0 on Cygwin x64](https://gist.github.com/aspyatkin/d2b28fc754e009bd4a48){:target="_blank"}  
+ - [Installing Berkshelf 4.0.1 on Cygwin x64](https://gist.github.com/aspyatkin/2a70736080835ac594ba){:target="_blank"}  
