@@ -70,3 +70,4 @@ My own projects are mostly related to organizing [CTF](https://en.wikipedia.org/
  - [Installing Ruby 2.2.4 on Cygwin x64](https://gist.github.com/aspyatkin/2a1305cceb9101caa2f6){:target="_blank"}  
  - [Installing Ruby 2.3.0 on Cygwin x64](https://gist.github.com/aspyatkin/d2b28fc754e009bd4a48){:target="_blank"}  
  - [Installing Berkshelf 4.0.1 on Cygwin x64](https://gist.github.com/aspyatkin/2a70736080835ac594ba){:target="_blank"}  
+ - [Generate X509 CSR with SAN extension in Ruby](https://gist.github.com/aspyatkin/23c336b811aac211040f){:target="_blank"}  
