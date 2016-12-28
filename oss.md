@@ -48,23 +48,19 @@ I love open source! I have several projects on my own as well as contributions t
 ## My own projects
 My own projects are mostly related to organizing [CTF](https://en.wikipedia.org/wiki/Capture_the_flag){:target="_blank"} contests.  
 
-#### VolgaCTF Quals
-- [themis-quals-backend](https://github.com/aspyatkin/themis-quals-backend){:target="_blank"} -- website backend (CoffeeScript)  
-- [themis-quals-frontend](https://github.com/aspyatkin/themis-quals-frontend){:target="_blank"} -- website frontend (CoffeeScript, SASS)  
-- [themis-quals-infrastructure](https://github.com/aspyatkin/themis-quals-infrastructure){:target="_blank"} -- [Vagrant](https://www.vagrantup.com){:target="_blank"} development environment and [Chef](https://www.chef.io/){:target="_blank"} configuration for the server  
+#### Themis project
+This is a platform for both task-based and attack-defence CTFs. There are many repositories, of which the project is comprised, that is why all of them were moved to [Themis Project organization](https://github.com/themis-project){:target="_blank"} on GitHub.
 
-#### VolgaCTF Finals
-- [themis-finals](https://github.com/aspyatkin/themis-finals){:target="_blank"} -- CTF contest checking system (Ruby, JavaScript)  
-- [themis-finals-infrastructure](https://github.com/aspyatkin/themis-finals-infrastructure){:target="_blank"} -- Chef Solo configuration to set up Themis Finals contest checking system  
-- [themis-finals-guidelines](https://github.com/aspyatkin/themis-finals-guidelines){:target="_blank"} -- Guidelines for getting Themis Finals up and running  
-- [themis-attack-protocol](https://github.com/aspyatkin/themis-attack-protocol){:target="_blank"} -- Themis Finals attack protocol  
-- [themis-attack-py](https://github.com/aspyatkin/themis-attack-py){:target="_blank"} -- Themis Finals attack helper library  
+This platform is used at [VolgaCTF Quals](https://ctftime.org/ctf/52){:target="_blank"} as well as [VolgaCTF Finals](https://ctftime.org/ctf/53){:target="_blank"} events.
 
 #### Other
 - [dotfiles](https://github.com/aspyatkin/dotfiles){:target="_blank"} -- my own [dotfiles](http://dotfiles.github.io){:target="_blank"}  
 - [blank](https://github.com/aspyatkin/blank"){:target="_blank"} -- a custom theme for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh){:target="_blank"}  
 - [vagrant-helpers](https://github.com/aspyatkin/vagrant-helpers){:target="_blank"} -- [Vagrant](https://www.vagrantup.com) environment customization helpers  
 - [devcert](https://github.com/aspyatkin/devcert){:target="_blank"} -- A tool for creation X509 certificates without a hassle  
+- [beakeredis](https://github.com/aspyatkin/beakeredis){:target="_blank"} -- Extending beaker (cache & session module) to use Redis backend  
+- [tls-cookbook](https://github.com/aspyatkin/tls-cookbook){:target="_blank"} -- Chef cookbook to deploy SSL/TLS certificates  
+- [ssh-private-keys-cookbook](https://github.com/aspyatkin/ssh-private-keys-cookbook){:target="_blank"} -- Chef cookbook to deploy OpenSSH private keys  
 
 #### Gists
  - [Installing Ruby 2.2.4 on Cygwin x64](https://gist.github.com/aspyatkin/2a1305cceb9101caa2f6){:target="_blank"}  
