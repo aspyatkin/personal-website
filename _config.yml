@@ -24,4 +24,4 @@ exclude:
   - README.md
   - LICENSE
   - logs
-  - letsencrypt
+  - script
