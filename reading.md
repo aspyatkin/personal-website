@@ -14,7 +14,7 @@ Log will be formatted as follows:
 
 *timestamp stands for the date when I finished reading*
 
-- `[reading now]` / Erich Maria Remarque -- Der Himmel kennt keine Günstlinge / Эрих Мария Ремарк -- Жизнь взаймы
+- `28 Dec 2016` / Erich Maria Remarque -- Der Himmel kennt keine Günstlinge / Эрих Мария Ремарк -- Жизнь взаймы
 - `25 Dec 2016` / Erich Maria Remarque -- Arc de Triomphe / Эрих Мария Ремарк -- Триумфальная арка
 - `Dec 17 2016` / Markus Zusak -- The Book Thief / Маркус Зусак -- Книжный вор
 - `Dec 10 2016` / Ernest Hemingway -- The Snows of Kilimanjaro / Эрнест Хемингуэй -- Снега Килиманджаро
