@@ -14,6 +14,7 @@ Log will be formatted as follows:
 
 *timestamp stands for the date when I finished reading*
 
+- `[reading]` / Ernest Hemingway -- For Whom the Bell Tolls / Эрнест Хемингуэй -- По ком звонит колокол
 - `Jan 4, 2017` / Friedrich Nietzsche -- Also sprach Zarathustra: Ein Buch für Alle und Keinen / Фридрих Ницше -- Так говорил Заратустра
 - `Dec 28, 2016` / Erich Maria Remarque -- Der Himmel kennt keine Günstlinge / Эрих Мария Ремарк -- Жизнь взаймы
 - `Dec 25, 2016` / Erich Maria Remarque -- Arc de Triomphe / Эрих Мария Ремарк -- Триумфальная арка
