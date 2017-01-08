@@ -4,17 +4,17 @@ title: Reading list
 permalink: /reading/
 ---
 
-In September 2016, it occured to me that I need to note down some information about books I've read so as to make my life (a bit) more organized.
+In September 2016, it occurred to me that I need to note down some information about books I've read so as to make my life (a bit) more organized.
 
 Although my knowledge of English (C1 CEFR level) allows me to read books in English, it usually takes a considerable amount of time to finish even an ordinary thriller or a detective story, that is why I read in Russian.
 
 ## Log (starting September 2016)
-Log will be formatted as follows:  
+Log is formatted as follows:  
 `timestamp` / `author - title (original)` / `author - title (in Russian)`
 
 *timestamp stands for the date when I finished reading*
 
-- `[reading]` / Ernest Hemingway -- For Whom the Bell Tolls / Эрнест Хемингуэй -- По ком звонит колокол
+- `Jan 8, 2017` / Ernest Hemingway -- For Whom the Bell Tolls / Эрнест Хемингуэй -- По ком звонит колокол
 - `Jan 4, 2017` / Friedrich Nietzsche -- Also sprach Zarathustra: Ein Buch für Alle und Keinen / Фридрих Ницше -- Так говорил Заратустра
 - `Dec 28, 2016` / Erich Maria Remarque -- Der Himmel kennt keine Günstlinge / Эрих Мария Ремарк -- Жизнь взаймы
 - `Dec 25, 2016` / Erich Maria Remarque -- Arc de Triomphe / Эрих Мария Ремарк -- Триумфальная арка
@@ -35,7 +35,7 @@ Log will be formatted as follows:
 - `Sep 24, 2016` / Gregory David Roberts -- Shantaram / Грегори Дэвид Робертс -- Шантарам
 
 ## Other books (before September 2016)
-No timestamps, of course, I can't remember everything)
+No timestamps of course, I can't remember everything)
 
 - William Golding -- Lord of the flies / Уильям Голдинг -- Повелитель мух
 - William Golding -- The spire / Уильям Голдинг -- Шпиль
