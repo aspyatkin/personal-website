@@ -16,20 +16,24 @@ layout: default
   	</p>
   	<h2>Log (starting September 2016)</h2>
   	<p>
-  		Log is formatted as follows:
+  		List is formatted as follows:
   		<br>
-  		<code>timestamp</code> / <code>author &ndash; title (original)</code> / <code>author &ndash; title (in Russian)</code>
+  		<code><small>timestamp</small> / author &ndash; title (original) / author &ndash; title (in Russian)</code>
   	</p>
   	<p>
   		<i>timestamp stands for the date when I finished reading</i>
   	</p>
   	<ul>
   		{% for entry in page.log_list %}
-  		<li><code>{{ entry.date }}</code> / {{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
+  		<li><small>{{ entry.date }}</small> / {{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
 		{% endfor %}
   	</ul>
-  	<h2>Other books (before September 2016)</h2>
-  	<p>No timestamps of course, I can't remember everything)</p>
+  	<h2>Other books</h2>
+    <p>
+      List is formatted as follows:
+      <br>
+      <code>author &ndash; title (original) / author &ndash; title (in Russian)</code>
+    </p>
   	<ul>
   		{% for entry in page.other_list %}
   		<li>{{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>

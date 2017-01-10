@@ -10,9 +10,9 @@ layout: default
   <article class="post-content">
   	<h2>Log (starting December 2016)</h2>
   	<p>
-  		Log is formatted as follows:
+  		List is formatted as follows:
   		<br>
-  		<code>timestamp</code> / <code>title</code> (year) <code>rating</code>
+  		<code>timestamp / title (year) rating</code>
   	</p>
   	<p>
   		<i>timestamp stands for the date when I watched the movie</i>
@@ -20,7 +20,7 @@ layout: default
   	<ul>
   		{% for entry in page.log_list %}
   		<li>
-        <code>{{ entry.date }}</code> / {{ entry.title }} ({{ entry.year }})
+        <small>{{ entry.date }}</small> / <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a> ({{ entry.year }})
         {% case entry.rating %}
           {% when 0.5 %}
             ½
@@ -46,6 +46,41 @@ layout: default
       </li>
 		{% endfor %}
   	</ul>
+    <h2>Other movies</h2>
+    <p>
+      List is formatted as follows:
+      <br>
+      <code>title (year) rating</code>
+    </p>
+    <ul>
+      {% for entry in page.other_list %}
+      <li>
+        <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a> ({{ entry.year }})
+        {% case entry.rating %}
+          {% when 0.5 %}
+            ½
+          {% when 1 %}
+            ★
+          {% when 1.5 %}
+            ★½
+          {% when 2 %}
+            ★★
+          {% when 2.5 %}
+            ★★½
+          {% when 3 %}
+            ★★★
+          {% when 3.5 %}
+            ★★★½
+          {% when 4 %}
+            ★★★★
+          {% when 4.5 %}
+            ★★★★½
+          {% when 5 %}
+            ★★★★★
+        {% endcase %}
+      </li>
+    {% endfor %}
+    </ul>
   </article>
 
 </div>
