@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+  	<p>
+  		In September 2016, it occurred to me that I need to note down some information about books I've read so as to make my life (a bit) more organized.
+  	</p>
+  	<p>
+  		Although my knowledge of English (C1 CEFR level) allows me to read books in English, it usually takes a considerable amount of time to finish even an ordinary thriller or a detective story, that is why I read in Russian.
+  	</p>
+  	<h2>Log (starting September 2016)</h2>
+  	<p>
+  		Log is formatted as follows:
+  		<br>
+  		<code>timestamp</code> / <code>author &ndash; title (original)</code> / <code>author &ndash; title (in Russian)</code>
+  	</p>
+  	<p>
+  		<i>timestamp stands for the date when I finished reading</i>
+  	</p>
+  	<ul>
+  		{% for entry in page.log_list %}
+  		<li><code>{{ entry.date }}</code> / {{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
+		{% endfor %}
+  	</ul>
+  	<h2>Other books (before September 2016)</h2>
+  	<p>No timestamps of course, I can't remember everything)</p>
+  	<ul>
+  		{% for entry in page.other_list %}
+  		<li>{{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
+		{% endfor %}
+  	</ul>
+  </article>
+
+</div>
