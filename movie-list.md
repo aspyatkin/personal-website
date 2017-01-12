@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 3
 log_list:
+  - date: 'Jan 12, 2017'
+    title: 'Live by Night'
+    year: 2016
+    rating: 4.5
+    url: 'http://www.imdb.com/title/tt2361317/'
+
   - date: 'Jan 5, 2017'
     title: 'Assassin''s Creed'
     year: 2016
