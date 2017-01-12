@@ -25,7 +25,14 @@ layout: default
   	</p>
   	<ul>
   		{% for entry in page.log_list %}
-  		<li><small>{{ entry.date }}</small> / {{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
+  		<li>
+        {% if entry.date %}
+        <small>{{ entry.date }}</small>&nbsp;/&nbsp;
+        {% endif %}
+        {% if entry.reading %}
+        <mark>[&nbsp;reading&nbsp;]</mark>&nbsp;/&nbsp;
+        {% endif %}
+        {{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
 		{% endfor %}
   	</ul>
   	<h2>Other books</h2>

@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 2
 log_list:
+  - reading: yes
+    original:
+      author: 'Herman Melville'
+      title: 'Moby-Dick; or, The Whale'
+    russian:
+      author: 'Герман Мелвилл'
+      title: 'Моби Дик, или Белый кит'
+
   - date: 'Jan 8, 2017'
     original:
       author: 'Ernest Hemingway'
