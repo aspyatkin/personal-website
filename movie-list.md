@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 3
 log_list:
+  - date: 'Jan 15, 2017'
+    title: 'The Magnificent Seven'
+    year: 2016
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt2404435/'
+
   - date: 'Jan 12, 2017'
     title: 'Live by Night'
     year: 2016
