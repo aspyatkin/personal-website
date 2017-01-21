@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 3
 log_list:
+  - date: 'Jan 21, 2017'
+    title: 'The Accountant'
+    year: 2016
+    rating: 4
+    url: 'http://www.imdb.com/title/tt2140479/'
+
   - date: 'Jan 15, 2017'
     title: 'The Magnificent Seven'
     year: 2016
