@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 2
 log_list:
+  - reading: yes
+    original:
+      author: 'Franz Kafka'
+      title: 'Das Schloss'
+    russian:
+      author: 'Франц Кафка'
+      title: 'Замок'
+
   - date: 'Jan 21, 2017'
     original:
       author: 'Herman Melville'
