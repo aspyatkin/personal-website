@@ -63,6 +63,7 @@ This platform is used at [VolgaCTF Quals](https://ctftime.org/ctf/52){:target="_
 - [beakeredis](https://github.com/aspyatkin/beakeredis){:target="_blank"} -- Extending beaker (cache & session module) to use Redis backend  
 - [tls-cookbook](https://github.com/aspyatkin/tls-cookbook){:target="_blank"} -- Chef cookbook to deploy SSL/TLS certificates  
 - [ssh-private-keys-cookbook](https://github.com/aspyatkin/ssh-private-keys-cookbook){:target="_blank"} -- Chef cookbook to deploy OpenSSH private keys  
+- [yarn-cookbook](https://github.com/aspyatkin/yarn-cookbook){:target="_blank"} -- Chef cookbook to install Yarn package manager  
 
 #### Gists
  - [Installing Ruby 2.2.4 on Cygwin x64](https://gist.github.com/aspyatkin/2a1305cceb9101caa2f6){:target="_blank"}  
