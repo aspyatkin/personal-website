@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 3
 log_list:
+  - date: 'Jan 26, 2017'
+    title: 'Silence'
+    year: 2016
+    rating: 4.5
+    url: 'http://www.imdb.com/title/tt0490215/'
+
   - date: 'Jan 21, 2017'
     title: 'The Accountant'
     year: 2016
