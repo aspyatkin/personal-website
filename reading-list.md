@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 2
 log_list:
-  - reading: yes
+  - date: 'Jan 28, 2017'
     original:
       author: 'Franz Kafka'
       title: 'Das Schloss'
