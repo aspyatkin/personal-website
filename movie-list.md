@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 3
 log_list:
+  - date: 'Feb 4, 2017'
+    title: 'Munich'
+    year: 2005
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt0408306/'
+
   - date: 'Jan 28, 2017'
     title: 'The Infiltrator'
     year: 2016
