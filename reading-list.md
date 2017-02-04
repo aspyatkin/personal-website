@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 2
 log_list:
+  - reading: yes
+    original:
+      author: 'Erich Maria Remarque'
+      title: 'Die Nacht von Lissabon'
+    russian:
+      author: 'Эрих Мария Ремарк'
+      title: 'Ночь в Лиссабоне'
+
   - date: 'Jan 28, 2017'
     original:
       author: 'Franz Kafka'
