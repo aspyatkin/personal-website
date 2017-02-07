@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 2
 log_list:
+  - reading: yes
+    original:
+      author: 'Kurt Vonnegut'
+      title: 'The Sirens of Titan'
+    russian:
+      author: 'Курт Воннегут'
+      title: 'Сирены Титана'
+
   - date: 'Feb 5, 2017'
     original:
       author: 'Erich Maria Remarque'
