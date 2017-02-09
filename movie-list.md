@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 3
 log_list:
+  - date: 'Feb 9, 2017'
+    title: 'John Wick: Chapter 2'
+    year: 2017
+    rating: 4
+    url: 'http://www.imdb.com/title/tt4425200/'
+
   - date: 'Feb 4, 2017'
     title: 'Munich'
     year: 2005
