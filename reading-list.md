@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 2
 log_list:
+  - reading: yes
+    original:
+      author: 'Erich Maria Remarque'
+      title: 'Station am Horizont'
+    russian:
+      author: 'Эрих Мария Ремарк'
+      title: 'Станция на горизонте'
+
   - date: 'Feb 10, 2017'
     original:
       author: 'Kurt Vonnegut'
