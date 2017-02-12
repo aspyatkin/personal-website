@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 2
 log_list:
-  - reading: yes
+  - date: 'Feb 12, 2017'
     original:
       author: 'Erich Maria Remarque'
       title: 'Station am Horizont'
