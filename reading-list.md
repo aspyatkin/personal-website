@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 2
 log_list:
+  - reading: yes
+    original:
+      author: 'Albert Camus'
+      title: 'La Peste'
+    russian:
+      author: 'Альбер Камю'
+      title: 'Чума'
+
   - date: 'Feb 12, 2017'
     original:
       author: 'Erich Maria Remarque'
