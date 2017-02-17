@@ -13,10 +13,10 @@ Born on September 17th 1991 in Samara, Russia.
 Studied in public school no. 124 in Samara from 1998 till 2008, graduated with distinction.
 
 #### Higher education
-Studied in [Samara State Aerospace University](http://ssau.ru/) from 2008 till 2013, graduated with distinction and got awarded a specialist degree in computer security.
+Studied in [Samara State Aerospace University](http://ssau.ru/){:target="_blank"} from 2008 till 2013, graduated with distinction and got awarded a specialist degree in computer security.
 
 #### Sports
-I've been practising [Taekwondo](https://en.wikipedia.org/wiki/Taekwondo) [ITF](https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation) in 2006--2015. Got awarded a 1st dan degree in 2010, worked as a judge in local competitions organised in Samara region as well as a children's trainer in public school no. 72 in Samara.
+I've been practising [Taekwondo](https://en.wikipedia.org/wiki/Taekwondo){:target="_blank"} [ITF](https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation){:target="_blank"} in 2006--2015. Got awarded a 1st dan degree in 2010, worked as a judge in local competitions organised in Samara region as well as a children's trainer in public school no. 72 in Samara.
 
 #### English
 I've been learning English since my first form at school. I have two Cambridge English certificates:  
