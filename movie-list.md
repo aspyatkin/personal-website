@@ -3,7 +3,7 @@ layout: movie-list
 title: Movie list
 short_title: Movies
 permalink: /movie-list/
-top_ndx: 3
+top_ndx: 4
 log_list:
   - date: 'Feb 9, 2017'
     title: 'John Wick: Chapter 2'

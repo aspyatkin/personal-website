@@ -3,7 +3,7 @@ layout: reading-list
 title: Reading list
 short_title: Reading
 permalink: /reading-list/
-top_ndx: 2
+top_ndx: 3
 log_list:
   - reading: yes
     original:

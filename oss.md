@@ -3,7 +3,7 @@ layout: page
 title: Open-Source Software
 short_title: OSS
 permalink: /oss/
-top_ndx: 1
+top_ndx: 2
 ---
 
 I love open source! I have several projects on my own as well as contributions to the projects of other people.
