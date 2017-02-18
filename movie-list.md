@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Feb 18, 2017'
+    title: 'Arrival'
+    year: 2016
+    rating: 4
+    url: 'http://www.imdb.com/title/tt2543164/'
+
   - date: 'Feb 9, 2017'
     title: 'John Wick: Chapter 2'
     year: 2017
