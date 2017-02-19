@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - date: 'Feb 19, 2017'
+    original:
+      author: 'Albert Camus'
+      title: 'Le Malentendu'
+    russian:
+      author: 'Альбер Камю'
+      title: 'Недоразумение'
+
   - date: 'Feb 18, 2017'
     original:
       author: 'Albert Camus'
