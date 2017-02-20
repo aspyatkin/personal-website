@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Kurt Vonnegut'
+      title: 'Breakfast of Champions'
+    russian:
+      author: 'Курт Воннегут'
+      title: 'Завтрак для чемпионов'
+
   - date: 'Feb 19, 2017'
     original:
       author: 'Albert Camus'
