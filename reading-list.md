@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
-  - reading: yes
+  - date: 'Feb 23, 2017'
     original:
       author: 'Kurt Vonnegut'
       title: 'Breakfast of Champions'
