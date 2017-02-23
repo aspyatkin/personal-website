@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Victor Hugo'
+      title: 'L''Homme qui rit'
+    russian:
+      author: 'Виктор Гюго'
+      title: 'Человек, который смеётся'
+
   - date: 'Feb 23, 2017'
     original:
       author: 'Kurt Vonnegut'
