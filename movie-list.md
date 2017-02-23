@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Feb 23, 2017'
+    title: 'Doctor Strange'
+    year: 2016
+    rating: 4
+    url: 'http://www.imdb.com/title/tt1211837/'
+
   - date: 'Feb 18, 2017'
     title: 'Arrival'
     year: 2016
