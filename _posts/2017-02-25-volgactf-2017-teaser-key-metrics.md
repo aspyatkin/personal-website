@@ -8,7 +8,7 @@ meta: VolgaCTF
 comments: true
 ---
 
-On February 25 [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team has held [VolgaCTF 2017 Teaser](https://ctftime.org/event/373){:target="_blank"} competition.
+On February 25 [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team held [VolgaCTF 2017 Teaser](https://ctftime.org/event/373){:target="_blank"} competition.
 
 Below are some key metrics collected during the event.
 
