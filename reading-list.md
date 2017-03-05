@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
-  - reading: yes
+  - date: 'Mar 5, 2017'
     original:
       author: 'Victor Hugo'
       title: 'L''Homme qui rit'
