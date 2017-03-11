@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Francis Scott Fitzgerald'
+      title: 'Tender Is the Night'
+    russian:
+      author: 'Фрэнсис Скотт Фицджеральд'
+      title: 'Ночь нежна'
+
   - date: 'Mar 5, 2017'
     original:
       author: 'Victor Hugo'
