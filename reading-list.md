@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
-  - reading: yes
+  - date: 'Mar 13, 2017'
     original:
       author: 'Francis Scott Fitzgerald'
       title: 'Tender Is the Night'
