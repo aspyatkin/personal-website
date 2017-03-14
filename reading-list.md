@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Herbert Wells'
+      title: 'The Time Machine'
+    russian:
+      author: 'Герберт Уэллс'
+      title: 'Машина времени'
+
   - date: 'Mar 13, 2017'
     original:
       author: 'Francis Scott Fitzgerald'
