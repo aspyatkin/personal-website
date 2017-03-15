@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
-  - reading: yes
+  - date: 'Mar 15, 2017'
     original:
       author: 'Herbert Wells'
       title: 'The Time Machine'
