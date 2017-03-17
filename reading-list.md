@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - date: 'Mar 17, 2017'
+    original:
+      author: 'Herbert Wells'
+      title: 'The Island of Dr. Moreau'
+    russian:
+      author: 'Герберт Уэллс'
+      title: 'Остров доктора Моро'
+
   - date: 'Mar 15, 2017'
     original:
       author: 'Herbert Wells'
