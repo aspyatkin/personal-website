@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Theodore Dreiser'
+      title: 'The Financier'
+    russian:
+      author: 'Теодор Драйзер'
+      title: 'Финансист'
+
   - date: 'Mar 17, 2017'
     original:
       author: 'Herbert Wells'
