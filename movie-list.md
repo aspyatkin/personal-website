@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Mar 18, 2017'
+    title: 'Allied'
+    year: 2016
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt3640424/'
+
   - date: 'Mar 16, 2017'
     title: 'Split'
     year: 2016
