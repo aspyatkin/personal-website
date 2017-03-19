@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Mar 19, 2017'
+    title: 'Collateral Beauty'
+    year: 2016
+    rating: 4.5
+    url: 'http://www.imdb.com/title/tt4682786/'
+
   - date: 'Mar 18, 2017'
     title: 'Allied'
     year: 2016
