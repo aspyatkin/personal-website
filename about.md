@@ -26,7 +26,7 @@ Result: `Pass`
 CEFR level: `B1`
 
 **[FCE](http://www.cambridgeenglish.org/exams/first/){:target="_blank"}**  
-I took FCE in June 2016.  
+I took FCE on June 4th, 2016.  
 Result: `Pass at grade A`  
 CEFR level: `C1`  
-[Statement of results](http://www.slideshare.net/AlexanderPyatkin/statementofresult-63726676){:target="_blank"}
+[Statement of results](/FCE-StatementOfResult.pdf){:target="_blank"}
