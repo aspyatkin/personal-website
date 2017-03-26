@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Erich Maria Remarque'
+      title: 'Liebe Deinen Nächsten'
+    russian:
+      author: 'Эрих Мария Ремарк'
+      title: 'Возлюби ближнего своего'
+
   - date: 'Mar 25, 2017'
     original:
       author: 'Theodore Dreiser'
