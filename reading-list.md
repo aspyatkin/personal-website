@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Jack Kerouac'
+      title: 'On the Road'
+    russian:
+      author: 'Джек Керуак'
+      title: 'В дороге'
+
   - date: 'Mar 30, 2017'
     original:
       author: 'Erich Maria Remarque'
