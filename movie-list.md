@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 1, 2017'
+    title: 'Fantastic Beasts and Where to Find Them'
+    year: 2017
+    rating: 4
+    url: 'http://www.imdb.com/title/tt3183660/'
+
   - date: 'Mar 23, 2017'
     title: 'Life'
     year: 2017
