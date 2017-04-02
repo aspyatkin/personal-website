@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
-  - reading: yes
+  - date: 'Apr 2, 2017'
     original:
       author: 'Jack Kerouac'
       title: 'On the Road'
