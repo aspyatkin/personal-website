@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 2, 2017'
+    title: 'Focus'
+    year: 2015
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt2381941/'
+
   - date: 'Apr 1, 2017'
     title: 'Fantastic Beasts and Where to Find Them'
     year: 2017
