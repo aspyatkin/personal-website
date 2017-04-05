@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Honoré de Balzac'
+      title: 'La Peau de chagrin'
+    russian:
+      author: 'Оноре де Бальзак'
+      title: 'Шагреневая кожа'
+
   - date: 'Apr 2, 2017'
     original:
       author: 'Jack Kerouac'
