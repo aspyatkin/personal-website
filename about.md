@@ -19,7 +19,7 @@ Studied in [Samara State Aerospace University](http://ssau.ru/){:target="_blank"
 I've been practising [Taekwondo](https://en.wikipedia.org/wiki/Taekwondo){:target="_blank"} [ITF](https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation){:target="_blank"} in 2006--2015. Got awarded a 1st dan degree in 2010, worked as a judge in local competitions organised in Samara region as well as a children's trainer in public school no. 72 in Samara.
 
 #### English
-I've been learning English since my first form at school. I have two Cambridge English certificates:  
+I've been learning English since my first form at school. I sat three Cambridge English exams:  
 **[PET](http://www.cambridgeenglish.org/exams/preliminary/){:target="_blank"}**  
 I took PET at school in December 2003.  
 Result: `Pass`  
@@ -27,6 +27,12 @@ CEFR level: `B1`
 
 **[FCE](http://www.cambridgeenglish.org/exams/first/){:target="_blank"}**  
 I took FCE on June 4th, 2016.  
-Result: `Pass at grade A`  
+Result: `Pass at Grade A`  
 CEFR level: `C1`  
-[Statement of results](/FCE-StatementOfResult.pdf){:target="_blank"}
+[Statement of results](/FCE-StatementOfResults.pdf){:target="_blank"}
+
+**[CAE](http://www.cambridgeenglish.org/exams/advanced/){:target="_blank"}**  
+I took CAE on March 11th, 2017.  
+Result: `Pass at Grade A`  
+CEFR level: `C2`  
+[Statement of results](/CAE-StatementOfResults.pdf){:target="_blank"}
