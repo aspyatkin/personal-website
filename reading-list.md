@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
-  - reading: yes
+  - date: 'Apr 8, 2017'
     original:
       author: 'Honoré de Balzac'
       title: 'La Peau de chagrin'
