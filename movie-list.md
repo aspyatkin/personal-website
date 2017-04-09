@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 9, 2017'
+    title: 'Fallen'
+    year: 1998
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt0119099/'
+
   - date: 'Apr 2, 2017'
     title: 'Focus'
     year: 2015
