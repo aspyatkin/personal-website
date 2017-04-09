@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - date: 'Apr 9, 2017'
+    original:
+      author: 'Herbert Wells'
+      title: 'The War of the Worlds'
+    russian:
+      author: 'Герберт Уэллс'
+      title: 'Война миров'
+
   - date: 'Apr 8, 2017'
     original:
       author: 'Honoré de Balzac'
