@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'John Steinbeck'
+      title: 'The Grapes of Wrath'
+    russian:
+      author: 'Джон Стейнбек'
+      title: 'Гроздья гнева'
+
   - date: 'Apr 9, 2017'
     original:
       author: 'Herbert Wells'
