@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 15, 2017'
+    title: 'Nocturnal Animals'
+    year: 2016
+    rating: 4
+    url: 'http://www.imdb.com/title/tt4550098/'
+
   - date: 'Apr 9, 2017'
     title: 'Fallen'
     year: 1998
