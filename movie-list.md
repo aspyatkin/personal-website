@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 16, 2017'
+    title: 'Seven Pounds'
+    year: 2008
+    rating: 5
+    url: 'http://www.imdb.com/title/tt0814314/'
+
   - date: 'Apr 15, 2017'
     title: 'Nocturnal Animals'
     year: 2016
