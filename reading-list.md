@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - date: 'Apr 22, 2017'
+    original:
+      author: 'Herbert Wells'
+      title: 'The First Men in the Moon'
+    russian:
+      author: 'Герберт Уэллс'
+      title: 'Первые люди на Луне'
+
   - date: 'Apr 21, 2017'
     original:
       author: 'John Steinbeck'
