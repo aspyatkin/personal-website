@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 22, 2017'
+    title: 'Gravity'
+    year: 2013
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt1454468/'
+
   - date: 'Apr 16, 2017'
     title: 'Seven Pounds'
     year: 2008
