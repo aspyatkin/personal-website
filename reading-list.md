@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Theodore Dreiser'
+      title: 'The Titan'
+    russian:
+      author: 'Теодор Драйзер'
+      title: 'Титан'
+
   - date: 'Apr 22, 2017'
     original:
       author: 'Herbert Wells'

@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 23, 2017'
+    title: 'The Pursuit of Happyness'
+    year: 2006
+    rating: 4
+    url: 'http://www.imdb.com/title/tt0454921/'
+
   - date: 'Apr 22, 2017'
     title: 'Gravity'
     year: 2013
