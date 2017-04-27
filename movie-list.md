@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 27, 2017'
+    title: 'The Circle'
+    year: 2017
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt4287320/'
+
   - date: 'Apr 23, 2017'
     title: 'The Pursuit of Happyness'
     year: 2006
