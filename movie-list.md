@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Apr 30, 2017'
+    title: 'The Town'
+    year: 2010
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt0840361/'
+
   - date: 'Apr 27, 2017'
     title: 'The Circle'
     year: 2017
