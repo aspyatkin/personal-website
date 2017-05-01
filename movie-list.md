@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'May 1, 2017'
+    title: 'Prometheus'
+    year: 2012
+    rating: 4
+    url: 'http://www.imdb.com/title/tt1446714/'
+
   - date: 'Apr 30, 2017'
     title: 'The Town'
     year: 2010
