@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'May 6, 2017'
+    title: 'RocknRolla'
+    year: 2008
+    rating: 4
+    url: 'http://www.imdb.com/title/tt1032755/'
+
   - date: 'May 1, 2017'
     title: 'Prometheus'
     year: 2012
