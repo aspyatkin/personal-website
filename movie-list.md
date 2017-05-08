@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'May 8, 2017'
+    title: 'The Water Diviner'
+    year: 2014
+    rating: 4
+    url: 'http://www.imdb.com/title/tt3007512/'
+
   - date: 'May 6, 2017'
     title: 'RocknRolla'
     year: 2008
