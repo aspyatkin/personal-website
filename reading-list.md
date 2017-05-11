@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'Charles Dickens'
+      title: 'Great Expectations'
+    russian:
+      author: 'Чарльз Диккенс'
+      title: 'Большие надежды'
+
   - date: 'May 8, 2017'
     original:
       author: 'Theodore Dreiser'
