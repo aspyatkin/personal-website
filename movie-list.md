@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'May 18, 2017'
+    title: 'Alien: Covenant'
+    year: 2017
+    rating: 4
+    url: 'http://www.imdb.com/title/tt2316204/'
+
   - date: 'May 8, 2017'
     title: 'The Water Diviner'
     year: 2014
