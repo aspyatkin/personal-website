@@ -7,6 +7,14 @@ top_ndx: 3
 log_list:
   - reading: yes
     original:
+      author: 'John Fowles'
+      title: 'The Magus'
+    russian:
+      author: 'Джон Фаулз'
+      title: 'Волхв'
+
+  - date: 'May 20, 2017'
+    original:
       author: 'Charles Dickens'
       title: 'Great Expectations'
     russian:
