@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'May 21, 2017'
+    title: 'Alien'
+    year: 1979
+    rating: 4
+    url: 'http://www.imdb.com/title/tt0078748/'
+
   - date: 'May 18, 2017'
     title: 'Alien: Covenant'
     year: 2017
