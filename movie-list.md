@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'May 25, 2017'
+    title: 'Pirates of the Caribbean: Dead Men Tell No Tales'
+    year: 2017
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt1790809/'
+
   - date: 'May 21, 2017'
     title: 'Alien'
     year: 1979
