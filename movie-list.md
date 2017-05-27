@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'May 27, 2017'
+    title: 'Logan'
+    year: 2017
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt3315342/'
+
   - date: 'May 25, 2017'
     title: 'Pirates of the Caribbean: Dead Men Tell No Tales'
     year: 2017
