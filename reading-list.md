@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
-  - reading: yes
+  - date: 'May 28, 2017'
     original:
       author: 'John Fowles'
       title: 'The Magus'
