@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'May 28, 2017'
+    title: 'The Light Between Oceans'
+    year: 2016
+    rating: 4
+    url: 'http://www.imdb.com/title/tt2547584/'
+
   - date: 'May 27, 2017'
     title: 'Logan'
     year: 2017
