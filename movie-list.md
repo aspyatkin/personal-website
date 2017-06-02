@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Jun 2, 2017'
+    title: 'Wonder Woman'
+    year: 2017
+    rating: 4
+    url: 'http://www.imdb.com/title/tt0451279/'
+
   - date: 'May 28, 2017'
     title: 'The Light Between Oceans'
     year: 2016
