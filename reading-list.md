@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - reading: yes
+    original:
+      author: 'William Somerset Maugham'
+      title: 'Of Human Bondage'
+    russian:
+      author: 'Сомерсет Моэм'
+      title: 'Бремя страстей человеческих'
+
   - date: 'May 28, 2017'
     original:
       author: 'John Fowles'
