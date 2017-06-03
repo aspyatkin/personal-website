@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Jun 3, 2017'
+    title: 'Gran Torino'
+    year: 2008
+    rating: 4.5
+    url: 'http://www.imdb.com/title/tt1205489/'
+
   - date: 'Jun 2, 2017'
     title: 'Wonder Woman'
     year: 2017
