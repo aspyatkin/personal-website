@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Jun 10, 2017'
+    title: 'Mystic River'
+    year: 2003
+    rating: 4
+    url: 'http://www.imdb.com/title/tt0327056/'
+
   - date: 'Jun 3, 2017'
     title: 'Gran Torino'
     year: 2008
