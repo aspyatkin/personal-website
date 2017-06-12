@@ -5,7 +5,7 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
-  - reading: yes
+  - date: 'Jun 11, 2017'
     original:
       author: 'William Somerset Maugham'
       title: 'Of Human Bondage'
