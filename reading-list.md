@@ -5,6 +5,14 @@ short_title: Reading
 permalink: /reading-list/
 top_ndx: 3
 log_list:
+  - date: 'Jun 18, 2017'
+    original:
+      author: 'William Golding'
+      title: 'The Inheritors'
+    russian:
+      author: 'Уильям Голдинг'
+      title: 'Наследники'
+
   - date: 'Jun 15, 2017'
     original:
       author: 'William Golding'
