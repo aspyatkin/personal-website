@@ -5,6 +5,12 @@ short_title: Movies
 permalink: /movie-list/
 top_ndx: 4
 log_list:
+  - date: 'Jun 18, 2017'
+    title: 'Children of Men'
+    year: 2006
+    rating: 3.5
+    url: 'http://www.imdb.com/title/tt0206634/'
+
   - date: 'Jun 10, 2017'
     title: 'Mystic River'
     year: 2003
