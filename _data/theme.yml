@@ -1,0 +1,9 @@
+google_fonts:
+  - name: "Fira Sans"
+    weights: "400,400i,600,600i"
+  - name: "Fira Sans Condensed"
+navigation_pages:
+  - about.md
+  - oss.md
+  - reading-list.md
+  - movie-list.md

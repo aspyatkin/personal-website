@@ -1,9 +1,7 @@
 ---
 layout: movie-list
 title: Movie list
-short_title: Movies
 permalink: /movie-list/
-top_ndx: 4
 log_list:
   - date: 'Jun 18, 2017'
     title: 'Children of Men'

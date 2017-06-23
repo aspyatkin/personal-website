@@ -1,26 +1,47 @@
-# Site settings
+lang: en-US
 title: Alexander Pyatkin
-description: |
+email: aspyatkin@gmail.com
+description: >
     Hello there!
     My name is Alexander Pyatkin.
     I come from Samara, Russia.
     I work at Indigo Byte Systems, LLC on Dr.Explain and Tiwri.com.
 baseurl: ""
-url:
-    development: https://aspyatkin.dev
-    production: https://aspyatkin.com
-
+url: "https://aspyatkin.com"
 github_username:  aspyatkin
-
-timezone: Europe/Samara
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-basically-basic
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+timezone: Europe/Samara
+
+author: aspyatkin
+
+disqus:
+    shortname: aspyatkindotcom
+
+google_analytics: UA-90317412-1
 
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
   - LICENSE
-  - logs
+  - README.md
   - script
+  - logs
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

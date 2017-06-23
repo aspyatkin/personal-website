@@ -1,92 +1,95 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+{% include page-intro.html %}
 
-  <article class="post-content">
-    <p>
-      Just a little note about ratings :)
-      <br>
-      <a href="https://xkcd.com/1098/" target="_blank"><img src="https://imgs.xkcd.com/comics/star_ratings.png"/></a>
-  	</p>
-    <p>The lists below duplicate the information in my <a href="http://www.imdb.com/user/ur71228508/" target="_blank">IMDb profile</a>.</p>
-    <h2>Log (starting December 2016)</h2>
-  	<p>
-  		List is formatted as follows:
-  		<br>
-  		<code>timestamp / title (year) rating</code>
-  	</p>
-  	<p>
-  		<i>timestamp stands for the date when I watched the movie</i>
-  	</p>
-  	<ul>
-  		{% for entry in page.log_list %}
-  		<li>
-        <small>{{ entry.date }}</small> / <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a> ({{ entry.year }})
-        {% case entry.rating %}
-          {% when 0.5 %}
-            ½
-          {% when 1 %}
-            ★
-          {% when 1.5 %}
-            ★½
-          {% when 2 %}
-            ★★
-          {% when 2.5 %}
-            ★★½
-          {% when 3 %}
-            ★★★
-          {% when 3.5 %}
-            ★★★½
-          {% when 4 %}
-            ★★★★
-          {% when 4.5 %}
-            <mark>★★★★½</mark>
-          {% when 5 %}
-            <mark>★★★★★</mark>
-        {% endcase %}
-      </li>
-		{% endfor %}
-  	</ul>
-    <h2>Other movies</h2>
-    <p>
-      List is formatted as follows:
-      <br>
-      <code>title (year) rating</code>
-    </p>
-    <ul>
-      {% for entry in page.other_list %}
-      <li>
-        <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a> ({{ entry.year }})
-        {% case entry.rating %}
-          {% when 0.5 %}
-            ½
-          {% when 1 %}
-            ★
-          {% when 1.5 %}
-            ★½
-          {% when 2 %}
-            ★★
-          {% when 2.5 %}
-            ★★½
-          {% when 3 %}
-            ★★★
-          {% when 3.5 %}
-            ★★★½
-          {% when 4 %}
-            ★★★★
-          {% when 4.5 %}
-            <mark>★★★★½</mark>
-          {% when 5 %}
-            <mark>★★★★★</mark>
-        {% endcase %}
-      </li>
-    {% endfor %}
-    </ul>
-  </article>
+<main id="main" class="page-content" aria-label="Content">
+  <div class="inner">
+    <article class="entry-wrap">
+      <div class="entry-content">
+        <p>
+          Just a little note about ratings :)
+          <br>
+          <a href="https://xkcd.com/1098/" target="_blank"><img src="https://imgs.xkcd.com/comics/star_ratings.png"/></a>
+        </p>
+        <p>The lists below duplicate the information in my <a href="http://www.imdb.com/user/ur71228508/" target="_blank">IMDb profile</a>.</p>
+        <h2>Log (starting December 2016)</h2>
+        <p>
+          List is formatted as follows:
+          <br>
+          <code>timestamp / title (year) rating</code>
+        </p>
+        <p>
+          <i>timestamp stands for the date when I watched the movie</i>
+        </p>
+        <ul>
+          {% for entry in page.log_list %}
+          <li>
+            <small>{{ entry.date }}</small> / <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a> ({{ entry.year }})
+            {% case entry.rating %}
+              {% when 0.5 %}
+                ½
+              {% when 1 %}
+                ★
+              {% when 1.5 %}
+                ★½
+              {% when 2 %}
+                ★★
+              {% when 2.5 %}
+                ★★½
+              {% when 3 %}
+                ★★★
+              {% when 3.5 %}
+                ★★★½
+              {% when 4 %}
+                ★★★★
+              {% when 4.5 %}
+                <mark>★★★★½</mark>
+              {% when 5 %}
+                <mark>★★★★★</mark>
+            {% endcase %}
+          </li>
+        {% endfor %}
+        </ul>
+        <h2>Other movies</h2>
+        <p>
+          List is formatted as follows:
+          <br>
+          <code>title (year) rating</code>
+        </p>
+        <ul>
+          {% for entry in page.other_list %}
+          <li>
+            <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a> ({{ entry.year }})
+            {% case entry.rating %}
+              {% when 0.5 %}
+                ½
+              {% when 1 %}
+                ★
+              {% when 1.5 %}
+                ★½
+              {% when 2 %}
+                ★★
+              {% when 2.5 %}
+                ★★½
+              {% when 3 %}
+                ★★★
+              {% when 3.5 %}
+                ★★★½
+              {% when 4 %}
+                ★★★★
+              {% when 4.5 %}
+                <mark>★★★★½</mark>
+              {% when 5 %}
+                <mark>★★★★★</mark>
+            {% endcase %}
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </article>
 
-</div>
+    {% include footer.html %}
+  </div>
+</main>

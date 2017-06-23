@@ -3,9 +3,10 @@ layout: post
 title: 'VolgaCTF 2017 Quals: key metrics'
 permalink: /volgactf-2017-quals-key-metrics/
 date: 2017-03-27 08:00:00 +0400
-author: Alexander Pyatkin
+author: aspyatkin
 meta: VolgaCTF
 comments: true
+read_time: true
 ---
 
 [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team held [VolgaCTF 2017 Quals](https://ctftime.org/event/374){:target="_blank"} competition during the weekend. It started on March 24th at 18:00 and ended on March 26th at 18:00 ([Moscow Time](https://www.timeanddate.com/worldclock/russia/moscow)).

@@ -3,9 +3,10 @@ layout: post
 title: 'VolgaCTF 2017 Teaser: key metrics'
 permalink: /volgactf-2017-teaser-key-metrics/
 date: 2017-02-25 19:00:00 +0400
-author: Alexander Pyatkin
+author: aspyatkin
 meta: VolgaCTF
 comments: true
+read_time: true
 ---
 
 On February 25 [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team held [VolgaCTF 2017 Teaser](https://ctftime.org/event/373){:target="_blank"} competition.

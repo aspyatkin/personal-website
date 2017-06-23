@@ -1,51 +1,54 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+{% include page-intro.html %}
 
-  <article class="post-content">
-  	<p>
-      I believe I am an avid reader. Being engrossed in a book is one of my favourite leisure activities.
-  	</p>
-    <p>
-      The lists below are kept mainly for my own convenience - when I run out of anything to read, I find works by a familiar author which I haven't given a go yet.
-    </p>
-  	<h2>Log (starting September 2016)</h2>
-  	<p>
-  		List is formatted as follows:
-  		<br>
-  		<code><small>timestamp</small> / author &ndash; title (original) / author &ndash; title (in Russian)</code>
-  	</p>
-  	<p>
-  		<i>timestamp stands for the date when I finished reading</i>
-  	</p>
-  	<ul>
-  		{% for entry in page.log_list %}
-  		<li>
-        {% if entry.date %}
-        <small>{{ entry.date }}</small>&nbsp;/&nbsp;
-        {% endif %}
-        {% if entry.reading %}
-        <mark>/&nbsp;reading&nbsp;&nbsp;/</mark>&nbsp;
-        {% endif %}
-        {{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
-		{% endfor %}
-  	</ul>
-  	<h2>Other books</h2>
-    <p>
-      List is formatted as follows:
-      <br>
-      <code>author &ndash; title (original) / author &ndash; title (in Russian)</code>
-    </p>
-  	<ul>
-  		{% for entry in page.other_list %}
-  		<li>{{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
-		{% endfor %}
-  	</ul>
-  </article>
+<main id="main" class="page-content" aria-label="Content">
+  <div class="inner">
+    <article class="entry-wrap">
+      <div class="entry-content">
+        <p>
+          I believe I am an avid reader. Being engrossed in a book is one of my favourite leisure activities.
+        </p>
+        <p>
+          The lists below are kept mainly for my own convenience - when I run out of anything to read, I find works by a familiar author which I haven't given a go yet.
+        </p>
+        <h2>Log (starting September 2016)</h2>
+        <p>
+          List is formatted as follows:
+          <br>
+          <code><small>timestamp</small> / author &ndash; title (original) / author &ndash; title (in Russian)</code>
+        </p>
+        <p>
+          <i>timestamp stands for the date when I finished reading</i>
+        </p>
+        <ul>
+          {% for entry in page.log_list %}
+          <li>
+            {% if entry.date %}
+            <small>{{ entry.date }}</small>&nbsp;/&nbsp;
+            {% endif %}
+            {% if entry.reading %}
+            <mark>/&nbsp;reading&nbsp;&nbsp;/</mark>&nbsp;
+            {% endif %}
+            {{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
+        {% endfor %}
+        </ul>
+        <h2>Other books</h2>
+        <p>
+          List is formatted as follows:
+          <br>
+          <code>author &ndash; title (original) / author &ndash; title (in Russian)</code>
+        </p>
+        <ul>
+          {% for entry in page.other_list %}
+          <li>{{ entry.original.author }} &ndash; {{ entry.original.title }} / {{ entry.russian.author }} &ndash; {{ entry.russian.title }}</li>
+        {% endfor %}
+        </ul>
+      </div>
+    </article>
 
-</div>
+    {% include footer.html %}
+  </div>
+</main>
