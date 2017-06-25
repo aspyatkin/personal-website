@@ -3,6 +3,14 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 log_list:
+  - date: 'Jun 25, 2017'
+    original:
+      author: 'Theodore Dreiser'
+      title: 'The Stoic'
+    russian:
+      author: 'Теодор Драйзер'
+      title: 'Стоик'
+
   - date: 'Jun 18, 2017'
     original:
       author: 'William Golding'
