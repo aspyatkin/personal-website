@@ -3,6 +3,12 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 log_list:
+  - date: 'Jun 25, 2017'
+    title: 'Minority Report'
+    year: 2002
+    rating: 4
+    url: 'http://www.imdb.com/title/tt0181689/'
+
   - date: 'Jun 18, 2017'
     title: 'Children of Men'
     year: 2006
