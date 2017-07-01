@@ -3,6 +3,12 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 log_list:
+  - date: 'Jul 1, 2017'
+    title: 'Source Code'
+    year: 2011
+    rating: 4
+    url: 'http://www.imdb.com/title/tt0945513/'
+
   - date: 'Jun 25, 2017'
     title: 'Minority Report'
     year: 2002
