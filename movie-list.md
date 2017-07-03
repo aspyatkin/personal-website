@@ -3,6 +3,12 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 log_list:
+  - date: 'Jul 3, 2017'
+    title: 'The Thirteenth Floor'
+    year: 1999
+    rating: 4
+    url: 'http://www.imdb.com/title/tt0139809/'
+
   - date: 'Jul 1, 2017'
     title: 'Source Code'
     year: 2011
