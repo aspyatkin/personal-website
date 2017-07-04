@@ -3,6 +3,12 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 log_list:
+  - date: 'Jul 4, 2017'
+    title: 'Blade Runner'
+    year: 1982
+    rating: 4.5
+    url: 'http://www.imdb.com/title/tt0083658/'
+
   - date: 'Jul 3, 2017'
     title: 'The Thirteenth Floor'
     year: 1999
