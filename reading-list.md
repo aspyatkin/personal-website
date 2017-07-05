@@ -3,6 +3,14 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 log_list:
+  - date: 'Jul 5, 2017'
+    original:
+      author: 'Erich Maria Remarque'
+      title: 'Zeit zu leben und Zeit zu sterben'
+    russian:
+      author: 'Эрих Мария Ремарк'
+      title: 'Время жить и время умирать'
+
   - date: 'Jun 25, 2017'
     original:
       author: 'Theodore Dreiser'
