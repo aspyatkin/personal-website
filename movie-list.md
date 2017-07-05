@@ -3,6 +3,12 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 log_list:
+  - date: 'Jul 5, 2017'
+    title: 'Dark City'
+    year: 1998
+    rating: 4
+    url: 'http://www.imdb.com/title/tt0118929/'
+
   - date: 'Jul 4, 2017'
     title: 'Blade Runner'
     year: 1982
