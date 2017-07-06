@@ -3,6 +3,12 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 log_list:
+  - date: 'Jul 6, 2017'
+    title: 'Knockin'' on Heaven''s Door'
+    year: 1997
+    rating: 5
+    url: 'http://www.imdb.com/title/tt0119472/'
+
   - date: 'Jul 5, 2017'
     title: 'Dark City'
     year: 1998
