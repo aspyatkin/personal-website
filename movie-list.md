@@ -3,6 +3,12 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 log_list:
+  - date: 'Jul 7, 2017'
+    title: 'The Shawshank Redemption'
+    year: 1994
+    rating: 5
+    url: 'http://www.imdb.com/title/tt0111161/'
+
   - date: 'Jul 6, 2017'
     title: 'Knockin'' on Heaven''s Door'
     year: 1997
