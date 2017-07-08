@@ -3,6 +3,11 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 movie_list:
+  - title: 'A Cure for Wellness'
+    year: 2016
+    rating: 4
+    imdb_title: 'tt4731136'
+
   - title: 'The Shawshank Redemption'
     year: 1994
     rating: 5
