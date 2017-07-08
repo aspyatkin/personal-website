@@ -2,7 +2,7 @@
 layout: reading-list
 title: Reading list
 permalink: /reading-list/
-log_list:
+book_list:
   - date: 'Jul 5, 2017'
     original:
       author: 'Erich Maria Remarque'
@@ -371,7 +371,6 @@ log_list:
       author: 'Грегори Дэвид Робертс'
       title: 'Шантарам'
 
-other_list:
   - original:
       author: 'William Golding'
       title: 'Lord of the flies'
