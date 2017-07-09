@@ -3,6 +3,11 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 movie_list:
+  - title: 'The Green Mile'
+    year: 1999
+    rating: 4.5
+    imdb_title: 'tt0120689'
+
   - title: 'A Cure for Wellness'
     year: 2016
     rating: 4
