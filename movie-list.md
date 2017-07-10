@@ -3,6 +3,11 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 movie_list:
+  - title: 'Prisoners'
+    year: 2013
+    rating: 4
+    imdb_title: 'tt1392214'
+
   - title: 'The Green Mile'
     year: 1999
     rating: 4.5
