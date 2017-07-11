@@ -3,6 +3,11 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 movie_list:
+  - title: 'The Game'
+    year: 1997
+    rating: 3.5
+    imdb_title: 'tt0119174'
+
   - title: 'Prisoners'
     year: 2013
     rating: 4
