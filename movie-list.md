@@ -3,6 +3,11 @@ layout: movie-list
 title: Movie list
 permalink: /movie-list/
 movie_list:
+  - title: 'Insomnia'
+    year: 2002
+    rating: 4
+    imdb_title: 'tt0278504'
+
   - title: 'The Game'
     year: 1997
     rating: 3.5
