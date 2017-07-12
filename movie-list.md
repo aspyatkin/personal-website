@@ -2,6 +2,16 @@
 layout: movie-list
 title: Movie list
 permalink: /movie-list/
+director_list:
+  - name: 'Christopher Nolan'
+    imdb_name: 'nm0634240'
+
+  - name: 'Ridley Scott'
+    imdb_name: 'nm0000631'
+
+  - name: 'David Fincher'
+    imdb_name: 'nm0000399'
+
 movie_list:
   - title: 'Insomnia'
     year: 2002

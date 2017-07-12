@@ -3,6 +3,7 @@ layout: default
 ---
 
 {% assign sorted_movie_list = page.movie_list | sort: 'title' %}
+{% assign sorted_director_list = page.director_list | sort: 'name' %}
 
 {% include page-intro.html %}
 
@@ -42,6 +43,15 @@ layout: default
               {% when 5 %}
                 <mark>★★★★★</mark>
             {% endcase %}
+          </li>
+        {% endfor %}
+        </ul>
+
+        <p>Below is the list of my favourite directors:</p>
+        <ul>
+          {% for entry in sorted_director_list %}
+          <li>
+            <a href="http://www.imdb.com/name/{{ entry.imdb_name }}/" target="_blank">{{ entry.name }}</a>
           </li>
         {% endfor %}
         </ul>
