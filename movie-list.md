@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Saving Private Ryan'
+    year: 1998
+    rating: 3.5
+    imdb_title: 'tt0120815'
+
   - title: 'Insomnia'
     year: 2002
     rating: 4
