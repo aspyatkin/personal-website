@@ -3,6 +3,14 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jul 13, 2017'
+    original:
+      author: 'Erich Maria Remarque'
+      title: 'Der schwarze Obelisk'
+    russian:
+      author: 'Эрих Мария Ремарк'
+      title: 'Чёрный обелиск'
+
   - date: 'Jul 9, 2017'
     original:
       author: 'Erich Maria Remarque'
