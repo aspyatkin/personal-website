@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: '2001: A Space Odyssey'
+    year: 1968
+    rating: 4.5
+    imdb_title: 'tt0062622'
+
   - title: 'Saving Private Ryan'
     year: 1998
     rating: 3.5
