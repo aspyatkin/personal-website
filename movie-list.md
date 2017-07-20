@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Dunkirk'
+    year: 2017
+    rating: 5
+    imdb_title: 'tt5013056'
+
   - title: '2001: A Space Odyssey'
     year: 1968
     rating: 4.5
