@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'John Wick'
+    year: 2014
+    rating: 4
+    imdb_title: 'tt2911666'
+
   - title: 'Dunkirk'
     year: 2017
     rating: 5
