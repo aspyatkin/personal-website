@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Casino'
+    year: 1995
+    rating: 4
+    imdb_title: 'tt0112641'
+
   - title: 'John Wick'
     year: 2014
     rating: 4
