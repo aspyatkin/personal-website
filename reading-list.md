@@ -3,6 +3,14 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: ''
+    original:
+      author: 'Johann Wolfgang von Goethe'
+      title: 'Faust. Eine Tragödie'
+    russian:
+      author: 'Иоганн Вольфганг фон Гёте'
+      title: 'Фауст'
+
   - date: 'Jul 13, 2017'
     original:
       author: 'Erich Maria Remarque'
