@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'The Aviator'
+    year: 2004
+    rating: 4
+    imdb_title: 'tt0338751'
+
   - title: 'Casino'
     year: 1995
     rating: 4
