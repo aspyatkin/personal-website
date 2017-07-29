@@ -3,7 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
-  - date: ''
+  - date: 'Jul 29, 2017'
+    original:
+      author: 'Herbert Wells'
+      title: 'When the Sleeper Wakes'
+    russian:
+      author: 'Герберт Уэллс'
+      title: 'Когда Спящий проснётся'
+
+  - date: 'Jul 23, 2017'
     original:
       author: 'Johann Wolfgang von Goethe'
       title: 'Faust. Eine Tragödie'
