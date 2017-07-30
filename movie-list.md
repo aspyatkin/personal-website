@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Memento'
+    year: 2000
+    rating: 4
+    imdb_title: 'tt0209144'
+
   - title: 'The Aviator'
     year: 2004
     rating: 4
