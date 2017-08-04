@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Aug 4, 2017'
+    goodreads_id: '117833.The_Master_and_Margarita'
+    original:
+      author: 'Михаил Афанасьевич Булгаков'
+      title: 'Мастер и Маргарита'
+    english:
+      author: 'Mikhail Afanasyevich Bulgakov'
+      title: 'The Master and Margarita'
+
   - date: 'Jul 29, 2017'
     original:
       author: 'Herbert Wells'

@@ -19,12 +19,24 @@ layout: default
         <p>
           The list is formatted as follows:
           <br>
-          <code><strong>title</strong>&nbsp;[author]&nbsp;<small>(original)</small>&nbsp;|&nbsp;<strong>title</strong>&nbsp;[author]&nbsp;<small>(in Russian)</small></code>
+          <code><strong>title</strong>&nbsp;[author]&nbsp;<small>(original)</small>&nbsp;|&nbsp;<strong>title</strong>&nbsp;[author]&nbsp;<small>(<acronym title="in Russian for foreign authors | in English for authors who wrote in Russian language">alternative</acronym>)</small></code>
         </p>
         <ul>
           {% for entry in sorted_book_list %}
           <li>
-            <strong>{{ entry.original.title }}</strong>&nbsp;[{{ entry.original.author }}]&nbsp;&nbsp;|&nbsp;&nbsp;<strong>{{ entry.russian.title }}</strong>&nbsp;[{{ entry.russian.author }}]
+            <strong>
+              {{ entry.original.title }}
+            </strong>
+            &nbsp;[{{ entry.original.author }}]
+            {% if entry.goodreads_id %}
+              &nbsp;<a class="link-emj" href="https://www.goodreads.com/book/show/{{ entry.goodreads_id }}" target="_blank">&#x1F517;</a>
+            {% endif %}
+            {% if entry.russian %}
+            &nbsp;&nbsp;|&nbsp;&nbsp;<strong>{{ entry.russian.title }}</strong>&nbsp;[{{ entry.russian.author }}]
+            {% endif %}
+            {% if entry.english %}
+            &nbsp;&nbsp;|&nbsp;&nbsp;<strong>{{ entry.english.title }}</strong>&nbsp;[{{ entry.english.author }}]
+            {% endif %}
           </li>
         {% endfor %}
         </ul>
