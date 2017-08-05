@@ -13,6 +13,86 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'The Jungle Book'
+    year: 2016
+    rating: 3
+    imdb_title: 'tt3040964'
+
+  - title: 'From Dusk Till Dawn'
+    year: 1996
+    rating: 3.5
+    imdb_title: 'tt0116367'
+
+  - title: 'Deadpool'
+    year: 2016
+    rating: 3.5
+    imdb_title: 'tt1431045'
+
+  - title: 'The Last Witch Hunter'
+    year: 2015
+    rating: 3
+    imdb_title: 'tt1618442'
+
+  - title: 'Ant-Man'
+    year: 2015
+    rating: 3.5
+    imdb_title: 'tt0478970'
+
+  - title: 'American Ultra'
+    year: 2015
+    rating: 3
+    imdb_title: 'tt3316948'
+
+  - title: 'Mission: Impossible - Rogue Nation'
+    year: 2015
+    rating: 3.5
+    imdb_title: 'tt2381249'
+
+  - title: 'Kick-Ass'
+    year: 2010
+    rating: 4
+    imdb_title: 'tt1250777'
+
+  - title: 'Killer Elite'
+    year: 2011
+    rating: 3.5
+    imdb_title: 'tt1448755'
+
+  - title: 'The Mechanic'
+    year: 2011
+    rating: 3.5
+    imdb_title: 'tt0472399'
+
+  - title: 'The Book of Eli'
+    year: 2010
+    rating: 3.5
+    imdb_title: 'tt1037705'
+
+  - title: 'Transporter 2'
+    year: 2005
+    rating: 3.5
+    imdb_title: 'tt0388482'
+
+  - title: 'The Transporter'
+    year: 2002
+    rating: 3.5
+    imdb_title: 'tt0293662'
+
+  - title: 'Avengers: Age of Ultron'
+    year: 2015
+    rating: 3.5
+    imdb_title: 'tt2395427'
+
+  - title: 'The Avengers'
+    year: 2012
+    rating: 4
+    imdb_title: 'tt0848228'
+
+  - title: 'Территория'
+    year: 2015
+    rating: 3.5
+    imdb_title: 'tt2251828'
+
   - title: 'Cast Away'
     year: 2000
     rating: 4.5
@@ -55,7 +135,7 @@ movie_list:
 
   - title: 'Saving Private Ryan'
     year: 1998
-    rating: 3.5
+    rating: 3
     imdb_title: 'tt0120815'
 
   - title: 'Insomnia'
@@ -165,7 +245,7 @@ movie_list:
 
   - title: 'The Water Diviner'
     year: 2014
-    rating: 4
+    rating: 3.5
     imdb_title: 'tt3007512'
 
   - title: 'RocknRolla'
@@ -185,7 +265,7 @@ movie_list:
 
   - title: 'The Circle'
     year: 2017
-    rating: 3.5
+    rating: 3
     imdb_title: 'tt4287320'
 
   - title: 'The Pursuit of Happyness'
@@ -245,17 +325,17 @@ movie_list:
 
   - title: 'Doctor Strange'
     year: 2016
-    rating: 4
+    rating: 3.5
     imdb_title: 'tt1211837'
 
   - title: 'Arrival'
     year: 2016
-    rating: 4
+    rating: 3.5
     imdb_title: 'tt2543164'
 
   - title: 'John Wick: Chapter 2'
     year: 2017
-    rating: 4
+    rating: 3.5
     imdb_title: 'tt4425200'
 
   - title: 'Munich'
@@ -290,7 +370,7 @@ movie_list:
 
   - title: 'Assassin''s Creed'
     year: 2016
-    rating: 3.5
+    rating: 3
     imdb_title: 'tt2094766'
 
   - title: 'Passengers'
@@ -305,7 +385,7 @@ movie_list:
 
   - title: 'Runaway Jury'
     year: 2003
-    rating: 4
+    rating: 3.5
     imdb_title: 'tt0313542'
 
   - title: 'The Assassination of Jesse James by the Coward Robert Ford'
@@ -390,7 +470,7 @@ movie_list:
 
   - title: 'Spectre'
     year: 2015
-    rating: 3.5
+    rating: 3
     imdb_title: 'tt2379713'
 
   - title: 'The Bourne Supremacy'
@@ -535,7 +615,7 @@ movie_list:
 
   - title: 'Point Break'
     year: 1991
-    rating: 4
+    rating: 4.5
     imdb_title: 'tt0102685'
 
   - title: 'A Perfect World'
@@ -670,7 +750,7 @@ movie_list:
 
   - title: 'Mulholland Dr.'
     year: 2001
-    rating: 3.5
+    rating: 3
     imdb_title: 'tt0166924'
 
   - title: 'The Finest Hours'
@@ -780,7 +860,7 @@ movie_list:
 
   - title: 'Warcraft: The Beginning'
     year: 2016
-    rating: 4
+    rating: 3.5
     imdb_title: 'tt0803096'
 
   - title: 'Sully'
@@ -808,7 +888,7 @@ movie_list:
     rating: 4
     imdb_title: 'tt2582782'
 
-  - title: 'Stalker'
+  - title: 'Сталкер'
     year: 1979
     rating: 5
     imdb_title: 'tt0079944'
