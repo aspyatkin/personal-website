@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Cast Away'
+    year: 2000
+    rating: 4.5
+    imdb_title: 'tt0162222'
+
   - title: 'The Dark Tower'
     year: 2017
     rating: 3.5
