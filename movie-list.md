@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'The Curious Case of Benjamin Button'
+    year: 2008
+    rating: 5
+    imdb_title: 'tt0421715'
+
   - title: 'The Jungle Book'
     year: 2016
     rating: 3
