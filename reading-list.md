@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Aug 6, 2017'
+    goodreads_id: '862311.The_Star_Rover'
+    original:
+      author: 'Jack London'
+      title: 'The Star Rover'
+    russian:
+      author: 'Джек Лондон'
+      title: 'Странник по звездам'
+
   - date: 'Aug 4, 2017'
     goodreads_id: '117833.The_Master_and_Margarita'
     original:
