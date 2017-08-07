@@ -22,6 +22,7 @@ book_list:
       title: 'The Master and Margarita'
 
   - date: 'Jul 29, 2017'
+    goodreads_id: '80939.When_the_Sleeper_Wakes'
     original:
       author: 'Herbert Wells'
       title: 'When the Sleeper Wakes'
@@ -30,6 +31,7 @@ book_list:
       title: 'Когда Спящий проснётся'
 
   - date: 'Jul 23, 2017'
+    goodreads_id: '406373.Faust'
     original:
       author: 'Johann Wolfgang von Goethe'
       title: 'Faust. Eine Tragödie'
@@ -38,6 +40,7 @@ book_list:
       title: 'Фауст'
 
   - date: 'Jul 13, 2017'
+    goodreads_id: '1297123.The_Black_Obelisk'
     original:
       author: 'Erich Maria Remarque'
       title: 'Der schwarze Obelisk'
@@ -46,6 +49,7 @@ book_list:
       title: 'Чёрный обелиск'
 
   - date: 'Jul 9, 2017'
+    goodreads_id: '64097.Spark_of_Life'
     original:
       author: 'Erich Maria Remarque'
       title: 'Der Funke Leben'
@@ -54,6 +58,7 @@ book_list:
       title: 'Искра жизни'
 
   - date: 'Jul 5, 2017'
+    goodreads_id: '132749.A_Time_to_Love_and_a_Time_to_Die'
     original:
       author: 'Erich Maria Remarque'
       title: 'Zeit zu leben und Zeit zu sterben'
@@ -62,6 +67,7 @@ book_list:
       title: 'Время жить и время умирать'
 
   - date: 'Jun 25, 2017'
+    goodreads_id: '1404756.The_Stoic'
     original:
       author: 'Theodore Dreiser'
       title: 'The Stoic'
@@ -70,6 +76,7 @@ book_list:
       title: 'Стоик'
 
   - date: 'Jun 18, 2017'
+    goodreads_id: '14428.The_Inheritors'
     original:
       author: 'William Golding'
       title: 'The Inheritors'
@@ -78,6 +85,7 @@ book_list:
       title: 'Наследники'
 
   - date: 'Jun 15, 2017'
+    goodreads_id: '14430.The_Pyramid'
     original:
       author: 'William Golding'
       title: 'The Pyramid'
@@ -86,6 +94,7 @@ book_list:
       title: 'Пирамида'
 
   - date: 'Jun 11, 2017'
+    goodreads_id: '31548.Of_Human_Bondage'
     original:
       author: 'William Somerset Maugham'
       title: 'Of Human Bondage'
@@ -94,6 +103,7 @@ book_list:
       title: 'Бремя страстей человеческих'
 
   - date: 'May 28, 2017'
+    goodreads_id: '16286.The_Magus'
     original:
       author: 'John Fowles'
       title: 'The Magus'
@@ -102,6 +112,7 @@ book_list:
       title: 'Волхв'
 
   - date: 'May 20, 2017'
+    goodreads_id: '2623.Great_Expectations'
     original:
       author: 'Charles Dickens'
       title: 'Great Expectations'
@@ -110,6 +121,7 @@ book_list:
       title: 'Большие надежды'
 
   - date: 'May 8, 2017'
+    goodreads_id: '396734.The_Titan'
     original:
       author: 'Theodore Dreiser'
       title: 'The Titan'
