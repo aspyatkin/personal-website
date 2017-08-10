@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Valerian and the City of a Thousand Planets'
+    year: 2017
+    rating: 4
+    imdb_title: 'tt2239822'
+
   - title: 'The Curious Case of Benjamin Button'
     year: 2008
     rating: 5
