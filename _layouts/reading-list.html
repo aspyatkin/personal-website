@@ -28,14 +28,14 @@ layout: default
               {{ entry.original.title }}
             </strong>
             &nbsp;[{{ entry.original.author }}]
-            {% if entry.goodreads_id %}
-              &nbsp;<a class="link-emj" href="https://www.goodreads.com/book/show/{{ entry.goodreads_id }}" target="_blank">&#x1F517;</a>
-            {% endif %}
             {% if entry.russian %}
             &nbsp;&nbsp;|&nbsp;&nbsp;<strong>{{ entry.russian.title }}</strong>&nbsp;[{{ entry.russian.author }}]
             {% endif %}
             {% if entry.english %}
             &nbsp;&nbsp;|&nbsp;&nbsp;<strong>{{ entry.english.title }}</strong>&nbsp;[{{ entry.english.author }}]
+            {% endif %}
+            {% if entry.goodreads_id %}
+              &nbsp;&nbsp;|&nbsp;&nbsp;<a class="link-emj" title="{{ entry.original.title | xml_escape }} on Goodreads" href="https://www.goodreads.com/book/show/{{ entry.goodreads_id }}" target="_blank">&#x1F310;</a>
             {% endif %}
           </li>
         {% endfor %}

@@ -20,7 +20,8 @@ layout: default
         <ul>
           {% for entry in sorted_movie_list %}
           <li>
-            <a href="http://www.imdb.com/title/{{ entry.imdb_title }}/" target="_blank">{{ entry.title }}</a> ({{ entry.year }})
+            {{ entry.title }}&nbsp;({{ entry.year }})
+            &nbsp;|&nbsp;
             {% case entry.rating %}
               {% when 0.5 %}
                 ½
@@ -43,6 +44,8 @@ layout: default
               {% when 5 %}
                 <mark>★★★★★</mark>
             {% endcase %}
+            &nbsp;|&nbsp;
+            <a class="link-emj" href="http://www.imdb.com/title/{{ entry.imdb_title }}/" title="{{ entry.title | xml_escape }}&nbsp;({{ entry.year }}) on IMDb" target="_blank">&#x1F310;</a>
           </li>
         {% endfor %}
         </ul>

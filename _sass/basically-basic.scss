@@ -45,15 +45,21 @@
 EmojiSymbols Font (c)blockworks - Kenichi Kaneko
 http://emojisymbols.com/
 */
+
 @font-face {
 	font-family: "EmojiSymbols";
 	src: url('/assets/fonts/EmojiSymbols-Regular.woff') format('woff');
 	text-decoration: none;
 	font-style: normal;
 }
+
 .link-emj {
 	text-decoration: none;
 	color: #000;
 	font-family: "EmojiSymbols";
 	line-height: 1;
+}
+
+.sidebar .menu li {
+	font-size: 24px;
 }
