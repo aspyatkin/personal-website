@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Good Will Hunting'
+    year: 1997
+    rating: 4
+    imdb_title: 'tt0119217'
+
   - title: 'Valerian and the City of a Thousand Planets'
     year: 2017
     rating: 4
