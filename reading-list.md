@@ -13,7 +13,7 @@ book_list:
       title: 'Странник по звездам'
 
   - date: 'Aug 4, 2017'
-    goodreads_id: '117833.The_Master_and_Margarita'
+    goodreads_id: '18041850'
     original:
       author: 'Михаил Афанасьевич Булгаков'
       title: 'Мастер и Маргарита'
@@ -31,7 +31,7 @@ book_list:
       title: 'Когда Спящий проснётся'
 
   - date: 'Jul 23, 2017'
-    goodreads_id: '406373.Faust'
+    goodreads_id: '776077.Faust'
     original:
       author: 'Johann Wolfgang von Goethe'
       title: 'Faust. Eine Tragödie'
@@ -40,7 +40,7 @@ book_list:
       title: 'Фауст'
 
   - date: 'Jul 13, 2017'
-    goodreads_id: '1297123.The_Black_Obelisk'
+    goodreads_id: '397538.Der_schwarze_Obelisk_Geschichte_einer_versp_teten_Jugend'
     original:
       author: 'Erich Maria Remarque'
       title: 'Der schwarze Obelisk'
@@ -49,7 +49,7 @@ book_list:
       title: 'Чёрный обелиск'
 
   - date: 'Jul 9, 2017'
-    goodreads_id: '64097.Spark_of_Life'
+    goodreads_id: '1967368.Der_Funke_Leben'
     original:
       author: 'Erich Maria Remarque'
       title: 'Der Funke Leben'
@@ -58,7 +58,7 @@ book_list:
       title: 'Искра жизни'
 
   - date: 'Jul 5, 2017'
-    goodreads_id: '132749.A_Time_to_Love_and_a_Time_to_Die'
+    goodreads_id: '1516335.Zeit_zu_leben_und_Zeit_zu_sterben'
     original:
       author: 'Erich Maria Remarque'
       title: 'Zeit zu leben und Zeit zu sterben'
@@ -130,6 +130,7 @@ book_list:
       title: 'Титан'
 
   - date: 'Apr 22, 2017'
+    goodreads_id: '536478.The_First_Men_in_the_Moon'
     original:
       author: 'Herbert Wells'
       title: 'The First Men in the Moon'
@@ -138,6 +139,7 @@ book_list:
       title: 'Первые люди на Луне'
 
   - date: 'Apr 21, 2017'
+    goodreads_id: '18114322-the-grapes-of-wrath'
     original:
       author: 'John Steinbeck'
       title: 'The Grapes of Wrath'
@@ -146,6 +148,7 @@ book_list:
       title: 'Гроздья гнева'
 
   - date: 'Apr 9, 2017'
+    goodreads_id: '8909.The_War_of_the_Worlds'
     original:
       author: 'Herbert Wells'
       title: 'The War of the Worlds'
@@ -154,6 +157,7 @@ book_list:
       title: 'Война миров'
 
   - date: 'Apr 8, 2017'
+    goodreads_id: '1312606.La_Peau_De_Chagrin'
     original:
       author: 'Honoré de Balzac'
       title: 'La Peau de chagrin'
@@ -162,6 +166,7 @@ book_list:
       title: 'Шагреневая кожа'
 
   - date: 'Apr 2, 2017'
+    goodreads_id: '70401.On_the_Road'
     original:
       author: 'Jack Kerouac'
       title: 'On the Road'
@@ -170,6 +175,7 @@ book_list:
       title: 'В дороге'
 
   - date: 'Mar 30, 2017'
+    goodreads_id: '1967370.Liebe_Deinen_N_chsten_'
     original:
       author: 'Erich Maria Remarque'
       title: 'Liebe Deinen Nächsten'
@@ -178,6 +184,7 @@ book_list:
       title: 'Возлюби ближнего своего'
 
   - date: 'Mar 25, 2017'
+    goodreads_id: '381364.The_Financier'
     original:
       author: 'Theodore Dreiser'
       title: 'The Financier'
@@ -186,6 +193,7 @@ book_list:
       title: 'Финансист'
 
   - date: 'Mar 17, 2017'
+    goodreads_id: '29981.The_Island_of_Dr_Moreau'
     original:
       author: 'Herbert Wells'
       title: 'The Island of Dr. Moreau'
@@ -194,6 +202,7 @@ book_list:
       title: 'Остров доктора Моро'
 
   - date: 'Mar 15, 2017'
+    goodreads_id: '2493.The_Time_Machine'
     original:
       author: 'Herbert Wells'
       title: 'The Time Machine'
@@ -202,6 +211,7 @@ book_list:
       title: 'Машина времени'
 
   - date: 'Mar 13, 2017'
+    goodreads_id: '46164.Tender_Is_the_Night'
     original:
       author: 'Francis Scott Fitzgerald'
       title: 'Tender Is the Night'
@@ -210,6 +220,7 @@ book_list:
       title: 'Ночь нежна'
 
   - date: 'Mar 5, 2017'
+    goodreads_id: '2539640.L_homme_qui_rit'
     original:
       author: 'Victor Hugo'
       title: 'L''Homme qui rit'
