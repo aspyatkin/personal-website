@@ -229,6 +229,7 @@ book_list:
       title: 'Человек, который смеётся'
 
   - date: 'Feb 23, 2017'
+    goodreads_id: '4980.Breakfast_of_Champions'
     original:
       author: 'Kurt Vonnegut'
       title: 'Breakfast of Champions'
@@ -237,6 +238,7 @@ book_list:
       title: 'Завтрак для чемпионов'
 
   - date: 'Feb 19, 2017'
+    goodreads_id: '225208.Le_Malentendu'
     original:
       author: 'Albert Camus'
       title: 'Le Malentendu'
@@ -245,6 +247,7 @@ book_list:
       title: 'Недоразумение'
 
   - date: 'Feb 18, 2017'
+    goodreads_id: '770754.La_peste'
     original:
       author: 'Albert Camus'
       title: 'La Peste'
@@ -253,6 +256,7 @@ book_list:
       title: 'Чума'
 
   - date: 'Feb 12, 2017'
+    goodreads_id: '4558982-station-am-horizont'
     original:
       author: 'Erich Maria Remarque'
       title: 'Station am Horizont'
@@ -261,6 +265,7 @@ book_list:
       title: 'Станция на горизонте'
 
   - date: 'Feb 10, 2017'
+    goodreads_id: '4982.The_Sirens_of_Titan'
     original:
       author: 'Kurt Vonnegut'
       title: 'The Sirens of Titan'
@@ -269,6 +274,7 @@ book_list:
       title: 'Сирены Титана'
 
   - date: 'Feb 5, 2017'
+    goodreads_id: '397525.Die_Nacht_von_Lissabon'
     original:
       author: 'Erich Maria Remarque'
       title: 'Die Nacht von Lissabon'
@@ -277,6 +283,7 @@ book_list:
       title: 'Ночь в Лиссабоне'
 
   - date: 'Jan 28, 2017'
+    goodreads_id: '1509478.Das_Schlo_'
     original:
       author: 'Franz Kafka'
       title: 'Das Schloss'
@@ -285,6 +292,7 @@ book_list:
       title: 'Замок'
 
   - date: 'Jan 21, 2017'
+    goodreads_id: '153747.Moby_Dick_or_The_Whale'
     original:
       author: 'Herman Melville'
       title: 'Moby-Dick; or, The Whale'
@@ -293,6 +301,7 @@ book_list:
       title: 'Моби Дик, или Белый кит'
 
   - date: 'Jan 8, 2017'
+    goodreads_id: '46170.For_Whom_the_Bell_Tolls'
     original:
       author: 'Ernest Hemingway'
       title: 'For Whom the Bell Tolls'
@@ -301,6 +310,7 @@ book_list:
       title: 'По ком звонит колокол'
 
   - date: 'Jan 4, 2017'
+    goodreads_id: '30722699-also-sprach-zarathustra'
     original:
       author: 'Friedrich Nietzsche'
       title: 'Also sprach Zarathustra: Ein Buch für Alle und Keinen'
@@ -309,6 +319,7 @@ book_list:
       title: 'Так говорил Заратустра'
 
   - date: 'Dec 28, 2016'
+    goodreads_id: '4558981-der-himmel-kennt-keine-g-nstlinge'
     original:
       author: 'Erich Maria Remarque'
       title: 'Der Himmel kennt keine Günstlinge'
@@ -317,6 +328,7 @@ book_list:
       title: 'Жизнь взаймы'
 
   - date: 'Dec 25, 2016'
+    goodreads_id: '171267.Arc_de_Triomphe'
     original:
       author: 'Erich Maria Remarque'
       title: 'Arc de Triomphe'
@@ -325,6 +337,7 @@ book_list:
       title: 'Триумфальная арка'
 
   - date: 'Dec 17, 2016'
+    goodreads_id: '19063.The_Book_Thief'
     original:
       author: 'Markus Zusak'
       title: 'The Book Thief'
@@ -333,6 +346,7 @@ book_list:
       title: 'Книжный вор'
 
   - date: 'Dec 10, 2016'
+    goodreads_id: '30317485-the-snows-of-kilimanjaro'
     original:
       author: 'Ernest Hemingway'
       title: 'The Snows of Kilimanjaro'
@@ -341,6 +355,7 @@ book_list:
       title: 'Снега Килиманджаро'
 
   - date: 'Dec 7, 2016'
+    goodreads_id: '124920.Hotel'
     original:
       author: 'Arthur Hailey'
       title: 'Hotel'
@@ -349,6 +364,7 @@ book_list:
       title: 'Отель'
 
   - date: 'Nov 27, 2016'
+    goodreads_id: '387749.Ben_Hur'
     original:
       author: 'Lew Wallace'
       title: 'Ben-Hur: A Tale of the Christ'
@@ -357,6 +373,7 @@ book_list:
       title: 'Бен-Гур: история Христа'
 
   - date: 'Nov 5, 2016'
+    goodreads_id: '279538.Der_Proce_'
     original:
       author: 'Franz Kafka'
       title: 'Der Process'
@@ -365,6 +382,7 @@ book_list:
       title: 'Процесс'
 
   - date: 'Oct 30, 2016'
+    goodreads_id: '243705.The_Collector'
     original:
       author: 'John Fowles'
       title: 'The Collector'
@@ -373,6 +391,7 @@ book_list:
       title: 'Коллекционер'
 
   - date: 'Oct 25, 2016'
+    goodreads_id: '4671.The_Great_Gatsby'
     original:
       author: 'Francis Scott Fitzgerald'
       title: 'The Great Gatsby'
@@ -381,6 +400,7 @@ book_list:
       title: 'Великий Гэтсби'
 
   - date: 'Oct 23, 2016'
+    goodreads_id: '124928.Runway_Zero_Eight'
     original:
       author: 'Arthur Hailey, John Castle'
       title: 'Runway Zero-Eight'
@@ -389,6 +409,7 @@ book_list:
       title: 'На грани катастрофы'
 
   - date: 'Oct 23, 2016'
+    goodreads_id: '124918.Airport'
     original:
       author: 'Arthur Hailey'
       title: 'Airport'
@@ -397,6 +418,7 @@ book_list:
       title: 'Аэропорт'
 
   - date: 'Oct 20, 2016'
+    goodreads_id: '5544.Surely_You_re_Joking_Mr_Feynman_'
     original:
       author: 'Ralph Leighton, Richard Feynman'
       title: 'Surely You''re Joking, Mr. Feynman!'
@@ -405,6 +427,7 @@ book_list:
       title: 'Вы, конечно, шутите, мистер Фейнман!'
 
   - date: 'Oct 13, 2016'
+    goodreads_id: '20263040-personal'
     original:
       author: 'Lee Child'
       title: 'Personal'
@@ -413,6 +436,7 @@ book_list:
       title: 'Джек Ричер, или Личный интерес'
 
   - date: 'Oct 8, 2016'
+    goodreads_id: '10834766-das-gelobte-land'
     original:
       author: 'Erich Maria Remarque'
       title: 'Das gelobte Land'
@@ -421,6 +445,7 @@ book_list:
       title: 'Земля обетованная'
 
   - date: 'Sep 30, 2016'
+    goodreads_id: '1192995.Im_Westen_nichts_Neues'
     original:
       author: 'Erich Maria Remarque'
       title: 'Im Westen nichts Neues'
@@ -429,6 +454,7 @@ book_list:
       title: 'На Западном фронте без перемен'
 
   - date: 'Sep 25, 2016'
+    goodreads_id: '4631.A_Moveable_Feast'
     original:
       author: 'Ernest Hemingway'
       title: 'A Moveable Feast'
@@ -437,6 +463,7 @@ book_list:
       title: 'Праздник, который всегда с тобой'
 
   - date: 'Sep 24, 2016'
+    goodreads_id: '33600.Shantaram'
     original:
       author: 'Gregory David Roberts'
       title: 'Shantaram'
@@ -444,203 +471,232 @@ book_list:
       author: 'Грегори Дэвид Робертс'
       title: 'Шантарам'
 
-  - original:
+  - goodreads_id: '7624.Lord_of_the_Flies'
+    original:
       author: 'William Golding'
-      title: 'Lord of the flies'
+      title: 'Lord of the Flies'
     russian:
       author: 'Уильям Голдинг'
       title: 'Повелитель мух'
 
-  - original:
+  - goodreads_id: '1041865.The_Spire'
+    original:
       author: 'William Golding'
-      title: 'The spire'
+      title: 'The Spire'
     russian:
       author: 'Уильям Голдинг'
       title: 'Шпиль'
 
-  - original:
+  - goodreads_id: '249043.Darkness_Visible'
+    original:
       author: 'William Golding'
-      title: 'Darkness visible'
+      title: 'Darkness Visible'
     russian:
       author: 'Уильям Голдинг'
       title: 'Зримая тьма'
 
-  - original:
+  - goodreads_id: '159095.The_Paper_Men'
+    original:
       author: 'William Golding'
-      title: 'The paper man'
+      title: 'The Paper Men'
     russian:
       author: 'Уильям Голдинг'
       title: 'Бумажные людишки'
 
-  - original:
+  - goodreads_id: '367476.The_Double_Tongue'
+    original:
       author: 'William Golding'
-      title: 'The double tongue'
+      title: 'The Double Tongue'
     russian:
       author: 'Уильям Голдинг'
       title: 'Двойной язык'
 
-  - original:
+  - goodreads_id: '135479.Cat_s_Cradle'
+    original:
       author: 'Kurt Vonnegut'
-      title: 'Cat''s cradle'
+      title: 'Cat''s Cradle'
     russian:
       author: 'Курт Воннегут'
       title: 'Колыбель для кошки'
 
-  - original:
+  - goodreads_id: '4981.Slaughterhouse_Five'
+    original:
       author: 'Kurt Vonnegut'
-      title: 'Slaughterhouse five'
+      title: 'Slaughterhouse-Five'
     russian:
       author: 'Курт Воннегут'
       title: 'Бойня номер пять, или Крестовый поход детей'
 
-  - original:
+  - goodreads_id: '10799.A_Farewell_to_Arms'
+    original:
       author: 'Ernest Hemingway'
-      title: 'A farewell to arms'
+      title: 'A Farewell to Arms'
     russian:
       author: 'Эрнест Хемингуэй'
       title: 'Прощай, оружие!'
 
-  - original:
+  - goodreads_id: '2165.The_Old_Man_and_the_Sea'
+    original:
       author: 'Ernest Hemingway'
-      title: 'The old man and the sea'
+      title: 'The Old Man and The Sea'
     russian:
       author: 'Эрнест Хемингуэй'
       title: 'Старик и море'
 
-  - original:
+  - goodreads_id: '87302.La_Naus_e'
+    original:
       author: 'Jean-Paul Sartre'
-      title: 'La nausee'
+      title: 'La Nausée'
     russian:
       author: 'Жан-Поль Сартр'
       title: 'Тошнота'
 
-  - original:
+  - goodreads_id: '5297.The_Picture_of_Dorian_Gray'
+    original:
       author: 'Oscar Wilde'
       title: 'The Picture of Dorian Gray'
     russian:
       author: 'Оскар Уайльд'
       title: 'Портрет Дориана Грея'
 
-  - original:
+  - goodreads_id: '929782.Martin_Eden'
+    original:
       author: 'Jack London'
       title: 'Martin Eden'
     russian:
       author: 'Джек Лондон'
       title: 'Мартин Иден'
 
-  - original:
+  - goodreads_id: '672964.Drei_Kameraden'
+    original:
       author: 'Erich Maria Remarque'
       title: 'Drei Kameraden'
     russian:
       author: 'Эрих Мария Ремарк'
       title: 'Три товарища'
 
-  - original:
+  - goodreads_id: '227463.A_Clockwork_Orange'
+    original:
       author: 'Anthony Burgess'
-      title: 'A clockwork orange'
+      title: 'A Clockwork Orange'
     russian:
       author: 'Энтони Бёрджесс'
       title: 'Заводной апельсин'
 
-  - original:
+  - goodreads_id: '5129.Brave_New_World'
+    original:
       author: 'Aldous Huxley'
-      title: 'Brave new world'
+      title: 'Brave New World'
     russian:
       author: 'Олдос Хаксли'
       title: 'О дивный новый мир'
 
-  - original:
+  - goodreads_id: '5130.Island'
+    original:
       author: 'Aldous Huxley'
       title: 'Island'
     russian:
       author: 'Олдос Хаксли'
       title: 'Остров'
 
-  - original:
+  - goodreads_id: '5470.1984'
+    original:
       author: 'George Orwell'
       title: '1984'
     russian:
       author: 'Джордж Оруэлл'
       title: '1984'
 
-  - original:
+  - goodreads_id: '7613.Animal_Farm'
+    original:
       author: 'George Orwell'
       title: 'Animal Farm'
     russian:
       author: 'Джордж Оруэлл'
       title: 'Скотный двор'
 
-  - original:
+  - goodreads_id: '1391817.The_Minds_of_Billy_Milligan'
+    original:
       author: 'Daniel Keyes'
-      title: 'The minds of Billy Milligan'
+      title: 'The Minds of Billy Milligan'
     russian:
       author: 'Дэниел Киз'
       title: 'Таинственная история Билли Миллигана'
 
-  - original:
+  - goodreads_id: '18373.Flowers_for_Algernon'
+    original:
       author: 'Daniel Keyes'
       title: 'Flowers for Algernon'
     russian:
       author: 'Дэниел Киз'
       title: 'Цветы для Элджернона'
 
-  - original:
+  - goodreads_id: '332613.One_Flew_Over_the_Cuckoo_s_Nest'
+    original:
       author: 'Ken Kesey'
-      title: 'One flew over the cuckoo''s nest'
+      title: 'One Flew Over the Cuckoo''s Nest'
     russian:
       author: 'Кен Кизи'
       title: 'Над кукушкиным гнездом'
 
-  - original:
+  - goodreads_id: '32915.Sailor_Song'
+    original:
       author: 'Ken Kesey'
       title: 'Sailor song'
     russian:
       author: 'Кен Кизи'
       title: 'Песня моряка'
 
-  - original:
+  - goodreads_id: '5107.The_Catcher_in_the_Rye'
+    original:
       author: 'Jerome David Salinger'
       title: 'The Catcher in the Rye'
     russian:
       author: 'Джером Дэвид Сэлинджер'
       title: 'Над пропастью во ржи'
 
-  - original:
+  - goodreads_id: '17470674-fahrenheit-451'
+    original:
       author: 'Ray Bradbury'
       title: 'Fahrenheit 451'
     russian:
       author: 'Рэй Брэдбери'
       title: '451° по Фаренгейту'
 
-  - original:
+  - goodreads_id: '76778.The_Martian_Chronicles'
+    original:
       author: 'Ray Bradbury'
       title: 'The Martian Chronicles'
     russian:
       author: 'Рэй Брэдбери'
       title: 'Марсианские хроники'
 
-  - original:
+  - goodreads_id: '50033.Dandelion_Wine'
+    original:
       author: 'Ray Bradbury'
       title: 'Dandelion Wine'
     russian:
       author: 'Рэй Брэдбери'
       title: 'Вино из одуванчиков'
 
-  - original:
+  - goodreads_id: '402093.Sh_gun'
+    original:
       author: 'James Clavell'
       title: 'Shōgun'
     russian:
       author: 'Джеймс Клавелл'
       title: 'Сёгун'
 
-  - original:
+  - goodreads_id: '2657.To_Kill_a_Mockingbird'
+    original:
       author: 'Harper Lee'
       title: 'To Kill a Mockingbird'
     russian:
       author: 'Харпер Ли'
       title: 'Убить пересмешника'
 
-  - original:
+  - goodreads_id: '370523.Cien_a_os_de_soledad'
+    original:
       author: 'Gabriel García Márquez'
       title: 'Cien años de soledad'
     russian:
