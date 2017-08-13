@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Man on Fire'
+    year: 2004
+    rating: 4
+    imdb_title: 'tt0328107'
+
   - title: 'Good Will Hunting'
     year: 1997
     rating: 4
