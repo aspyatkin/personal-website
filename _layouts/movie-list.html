@@ -54,7 +54,9 @@ layout: default
         <ul>
           {% for entry in sorted_director_list %}
           <li>
-            <a href="http://www.imdb.com/name/{{ entry.imdb_name }}/" target="_blank">{{ entry.name }}</a>
+            {{ entry.name }}
+            &nbsp;|&nbsp;
+            <a class="link-emj" href="http://www.imdb.com/name/{{ entry.imdb_name }}/" title="{{ entry.name | xml_escape }}" target="_blank">&#x1F310;</a>
           </li>
         {% endfor %}
         </ul>

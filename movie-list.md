@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'La migliore offerta'
+    year: 2013
+    rating: 4
+    imdb_title: 'tt1924396'
+
   - title: 'Man on Fire'
     year: 2004
     rating: 4
