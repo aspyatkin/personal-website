@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Sin City'
+    year: 2005
+    rating: 3.5
+    imdb_title: 'tt0401792'
+
   - title: 'La migliore offerta'
     year: 2013
     rating: 4
