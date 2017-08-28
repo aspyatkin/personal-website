@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Moon'
+    year: 2009
+    rating: 4
+    imdb_title: 'tt1182345'
+
   - title: 'Sin City'
     year: 2005
     rating: 3.5
