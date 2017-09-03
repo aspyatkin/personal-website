@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Gold'
+    year: 2016
+    rating: 3.5
+    imdb_title: 'tt1800302'
+
   - title: 'Moon'
     year: 2009
     rating: 4
