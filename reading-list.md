@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Sep 8, 2017'
+    goodreads_id: '58696.David_Copperfield'
+    original:
+      author: ' Charles Dickens'
+      title: 'David Copperfield'
+    russian:
+      author: 'Чарльз Диккенс'
+      title: 'Жизнь Дэвида Копперфильда, рассказанная им самим'
+
   - date: 'Aug 6, 2017'
     goodreads_id: '862311.The_Star_Rover'
     original:
