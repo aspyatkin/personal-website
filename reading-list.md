@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Sep 10, 2017'
+    goodreads_id: '1420.Hamlet'
+    original:
+      author: 'William Shakespeare'
+      title: 'The Tragical Historie of Hamlet, Prince of Denmarke'
+    russian:
+      author: 'Уильям Шекспир'
+      title: 'Гамлет'
+
   - date: 'Sep 8, 2017'
     goodreads_id: '58696.David_Copperfield'
     original:
