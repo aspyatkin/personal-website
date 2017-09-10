@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'The Prestige'
+    year: 2006
+    rating: 4.5
+    imdb_title: 'tt0482571'
+
   - title: 'Gold'
     year: 2016
     rating: 3.5
