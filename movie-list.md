@@ -13,6 +13,11 @@ director_list:
     imdb_name: 'nm0000399'
 
 movie_list:
+  - title: 'Kingsman: The Golden Circle'
+    year: 2017
+    rating: 3.5
+    imdb_title: 'tt4649466'
+
   - title: 'The Prestige'
     year: 2006
     rating: 4.5
