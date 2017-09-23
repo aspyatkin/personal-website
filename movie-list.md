@@ -12,7 +12,15 @@ director_list:
   - name: 'David Fincher'
     imdb_name: 'nm0000399'
 
+  - name: 'Martin Scorsese'
+    imdb_name: 'nm0000217'
+
 movie_list:
+  - title: 'Die Hard'
+    year: 1988
+    rating: 4
+    imdb_title: 'tt0095016'
+
   - title: 'Kingsman: The Golden Circle'
     year: 2017
     rating: 3.5
