@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Sep 23, 2017'
+    goodreads_id: ''
+    original:
+      author: 'William Shakespeare'
+      title: 'The Tragedie of King Lear'
+    russian:
+      author: 'Уильям Шекспир'
+      title: 'Король Лир'
+
   - date: 'Sep 10, 2017'
     goodreads_id: '1420.Hamlet'
     original:
