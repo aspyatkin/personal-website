@@ -16,6 +16,11 @@ director_list:
     imdb_name: 'nm0000217'
 
 movie_list:
+  - title: 'The Italian Job'
+    year: 2003
+    rating: 3.5
+    imdb_title: 'tt0317740'
+
   - title: 'Die Hard'
     year: 1988
     rating: 4
