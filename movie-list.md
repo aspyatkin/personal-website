@@ -16,6 +16,11 @@ director_list:
     imdb_name: 'nm0000217'
 
 movie_list:
+  - title: 'Aliens'
+    year: 1986
+    rating: 4
+    imdb_title: 'tt0090605'
+
   - title: 'The Italian Job'
     year: 2003
     rating: 3.5
