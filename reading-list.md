@@ -3,8 +3,17 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Sep 30, 2017'
+    goodreads_id: '27822.Eugene_Onegin'
+    original:
+      author: 'Александр Сергеевич Пушкин'
+      title: 'Евгений Онегин'
+    english:
+      author: 'Alexander Pushkin'
+      title: 'Eugene Onegin'
+
   - date: 'Sep 23, 2017'
-    goodreads_id: ''
+    goodreads_id: '12938.King_Lear'
     original:
       author: 'William Shakespeare'
       title: 'The Tragedie of King Lear'
