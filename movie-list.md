@@ -16,6 +16,11 @@ director_list:
     imdb_name: 'nm0000217'
 
 movie_list:
+  - title: 'Die Hard 2'
+    year: 1990
+    rating: 3.5
+    imdb_title: 'tt0099423'
+
   - title: 'Aliens'
     year: 1986
     rating: 4
