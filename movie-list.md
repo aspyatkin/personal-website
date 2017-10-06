@@ -16,6 +16,11 @@ director_list:
     imdb_name: 'nm0000217'
 
 movie_list:
+  - title: 'Blade Runner 2049'
+    year: 2017
+    rating: 4.5
+    imdb_title: 'tt1856101'
+
   - title: 'Die Hard 2'
     year: 1990
     rating: 3.5
