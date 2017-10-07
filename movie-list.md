@@ -16,6 +16,11 @@ director_list:
     imdb_name: 'nm0000217'
 
 movie_list:
+  - title: 'Machete'
+    year: 2010
+    rating: 3.5
+    imdb_title: 'tt0985694'
+
   - title: 'Blade Runner 2049'
     year: 2017
     rating: 4.5
