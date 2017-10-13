@@ -16,6 +16,11 @@ director_list:
     imdb_name: 'nm0000217'
 
 movie_list:
+  - title: 'American Made'
+    year: 2017
+    rating: 4
+    imdb_title: 'tt3532216'
+
   - title: 'Machete'
     year: 2010
     rating: 3.5
