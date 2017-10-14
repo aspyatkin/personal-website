@@ -16,6 +16,11 @@ director_list:
     imdb_name: 'nm0000217'
 
 movie_list:
+  - title: 'Need for Speed'
+    year: 2014
+    rating: 4
+    imdb_title: 'tt2369135'
+
   - title: 'American Made'
     year: 2017
     rating: 4
