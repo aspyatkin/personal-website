@@ -16,6 +16,11 @@ director_list:
     imdb_name: 'nm0000217'
 
 movie_list:
+  - title: 'The Life of David Gale'
+    year: 2003
+    rating: 4
+    imdb_title: 'tt0289992'
+
   - title: 'Need for Speed'
     year: 2014
     rating: 4
