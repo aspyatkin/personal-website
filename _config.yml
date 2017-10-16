@@ -34,3 +34,7 @@ exclude:
   - README.md
   - script
   - logs
+
+include:
+  - .ssh
+
