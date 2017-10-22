@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Oct 22, 2017'
+    goodreads_id: '6656.The_Divine_Comedy'
+    original:
+      author: 'Dante Alighieri'
+      title: 'La Divina Commedia'
+    russian:
+      author: 'Данте Алигьери'
+      title: 'Божественная комедия'
+
   - date: 'Sep 30, 2017'
     goodreads_id: '27822.Eugene_Onegin'
     original:
