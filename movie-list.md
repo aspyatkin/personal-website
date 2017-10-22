@@ -15,7 +15,15 @@ director_list:
   - name: 'Martin Scorsese'
     imdb_name: 'nm0000217'
 
+  - name: 'Clint Eastwood'
+    imdb_name: 'nm0000142'
+
 movie_list:
+  - title: 'Changeling'
+    year: 2008
+    rating: 4.5
+    imdb_title: 'tt0824747'
+
   - title: 'The Life of David Gale'
     year: 2003
     rating: 4
