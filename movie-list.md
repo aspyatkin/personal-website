@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Manchester by the Sea'
+    year: 2016
+    rating: 5
+    imdb_title: 'tt4034228'
+
   - title: 'Changeling'
     year: 2008
     rating: 4.5

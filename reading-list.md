@@ -3,6 +3,24 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Oct 29, 2017'
+    goodreads_id: '441338.The_Call_girls'
+    original:
+      author: 'Arthur Koestler'
+      title: 'The Call-girls'
+    russian:
+      author: 'Артур Кёстлер'
+      title: 'Девушки по вызову'
+
+  - date: 'Oct 27, 2017'
+    goodreads_id: '1499093.La_Philosophie_dans_le_boudoir'
+    original:
+      author: 'Donatien Alphonse François de Sade'
+      title: 'La Philosophie dans le boudoir'
+    russian:
+      author: 'Донасьен Альфонс Франсуа де Сад'
+      title: 'Философия в будуаре'
+
   - date: 'Oct 22, 2017'
     goodreads_id: '6656.The_Divine_Comedy'
     original:
