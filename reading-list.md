@@ -3,6 +3,24 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Nov 4, 2017'
+    goodreads_id: '23875.El_coronel_no_tiene_quien_le_escriba'
+    original:
+      author: 'Gabriel García Márquez'
+      title: 'El coronel no tiene quien le escriba'
+    russian:
+      author: 'Габриэль Гарсиа Маркес'
+      title: 'Полковнику никто не пишет'
+
+  - date: 'Nov 3, 2017'
+    goodreads_id: '2896.Das_Parfum'
+    original:
+      author: 'Patrick Süskind'
+      title: 'Das Parfum: Die Geschichte eines Mörders'
+    russian:
+      author: 'Патрик Зюскинд'
+      title: 'Парфюмер. История одного убийцы'
+
   - date: 'Oct 29, 2017'
     goodreads_id: '441338.The_Call_girls'
     original:

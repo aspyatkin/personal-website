@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Drive'
+    year: 2011
+    rating: 4
+    imdb_title: 'tt0780504'
+
   - title: 'Manchester by the Sea'
     year: 2016
     rating: 5
