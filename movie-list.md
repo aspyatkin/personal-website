@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Justice League'
+    year: 2017
+    rating: 3.5
+    imdb_title: 'tt0974015'
+
   - title: 'Drive'
     year: 2011
     rating: 4
