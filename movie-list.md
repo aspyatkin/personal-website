@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Letters from Iwo Jima'
+    year: 2006
+    rating: 3.5
+    imdb_title: 'tt0498380'
+
   - title: 'The Snowman'
     year: 2017
     rating: 3.5
