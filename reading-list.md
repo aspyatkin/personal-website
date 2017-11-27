@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Nov 27, 2017'
+    goodreads_id: '7144.Crime_and_Punishment'
+    original:
+      author: 'Фёдор Михайлович Достоевский'
+      title: 'Преступление и наказание'
+    english:
+      author: 'Fyodor Dostoevsky'
+      title: 'Crime and Punishment'
+
   - date: 'Nov 4, 2017'
     goodreads_id: '23875.El_coronel_no_tiene_quien_le_escriba'
     original:
