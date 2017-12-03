@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'The Silence of the Lambs'
+    year: 1991
+    rating: 4
+    imdb_title: 'tt0102926'
+
   - title: 'Letters from Iwo Jima'
     year: 2006
     rating: 3.5

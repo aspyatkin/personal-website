@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Dec 03, 2017'
+    goodreads_id: '35355669-the-putin-interviews'
+    original:
+      author: 'Oliver Stone'
+      title: 'The Putin Interviews: Oliver Stone Interviews Vladimir Putin'
+    russian:
+      author: 'Оливер Стоун'
+      title: 'Интервью с Владимиром Путиным'
+
   - date: 'Nov 27, 2017'
     goodreads_id: '7144.Crime_and_Punishment'
     original:
