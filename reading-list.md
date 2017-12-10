@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Dec 09, 2017'
+    goodreads_id: '29875626-12'
+    original:
+      author: 'Илья Ильф, Евгений Петров'
+      title: '12 стульев'
+    english:
+      author: 'Ilya Ilf, Eugene Petrov'
+      title: 'The Twelve Chairs'
+
   - date: 'Dec 03, 2017'
     goodreads_id: '35355669-the-putin-interviews'
     original:

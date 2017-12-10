@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'La vita è bella'
+    year: 1997
+    rating: 4.5
+    imdb_title: 'tt0118799'
+
   - title: 'The Silence of the Lambs'
     year: 1991
     rating: 4
