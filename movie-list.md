@@ -19,6 +19,16 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'The Grand Budapest Hotel'
+    year: 2014
+    rating: 4
+    imdb_title: 'tt2278388'
+
+  - title: 'Star Wars: Episode VIII - The Last Jedi'
+    year: 2017
+    rating: 3.5
+    imdb_title: 'tt2527336'
+
   - title: 'La vita è bella'
     year: 1997
     rating: 4.5

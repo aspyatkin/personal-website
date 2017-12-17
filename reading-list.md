@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Dec 17, 2017'
+    goodreads_id: '31427192'
+    original:
+      author: 'Илья Ильф, Евгений Петров'
+      title: 'Золотой телёнок'
+    english:
+      author: 'Ilya Ilf, Eugene Petrov'
+      title: 'The Golden Calf'
+
   - date: 'Dec 09, 2017'
     goodreads_id: '29875626-12'
     original:
