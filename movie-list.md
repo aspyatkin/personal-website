@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Birdman or (The Unexpected Virtue of Ignorance)'
+    year: 2014
+    rating: 4.5
+    imdb_title: 'tt2562232'
+
   - title: 'The Grand Budapest Hotel'
     year: 2014
     rating: 4

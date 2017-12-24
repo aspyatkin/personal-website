@@ -3,6 +3,24 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Dec 24, 2017'
+    goodreads_id: '7745.Fear_and_Loathing_in_Las_Vegas'
+    original:
+      author: 'Hunter S. Thompson'
+      title: 'Fear and Loathing in Las Vegas'
+    russian:
+      author: 'Хантер Томпсон'
+      title: 'Страх и отвращение в Лас-Вегасе'
+
+  - date: 'Dec 20, 2017'
+    goodreads_id: '1177314.On_the_Eve'
+    original:
+      author: 'Иван Сергеевич Тургенев'
+      title: 'Накануне'
+    english:
+      author: 'Ivan Turgenev'
+      title: 'On the Eve'
+
   - date: 'Dec 17, 2017'
     goodreads_id: '31427192'
     original:
