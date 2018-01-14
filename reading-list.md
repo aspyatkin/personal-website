@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jan 14, 2018'
+    goodreads_id: '662.Atlas_Shrugged'
+    original:
+      author: 'Ayn Rand'
+      title: 'Atlas Shrugged'
+    russian:
+      author: 'Айн Рэнд'
+      title: 'Атлант расправил плечи'
+
   - date: 'Dec 24, 2017'
     goodreads_id: '7745.Fear_and_Loathing_in_Las_Vegas'
     original:
