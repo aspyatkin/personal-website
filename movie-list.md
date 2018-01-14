@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Molly''s Game'
+    year: 2017
+    rating: 4
+    imdb_title: 'tt4209788'
+
   - title: 'Birdman or (The Unexpected Virtue of Ignorance)'
     year: 2014
     rating: 4.5
