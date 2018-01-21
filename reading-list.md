@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jan 21, 2018'
+    goodreads_id: '3010732'
+    original:
+      author: 'Gabriel García Márquez'
+      title: 'El otoño del patriarca'
+    russian:
+      author: 'Габриэль Гарсиа Маркес'
+      title: 'Осень патриарха'
+
   - date: 'Jan 14, 2018'
     goodreads_id: '662.Atlas_Shrugged'
     original:
