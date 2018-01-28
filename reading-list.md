@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jan 24, 2018'
+    goodreads_id: '36110536'
+    original:
+      author: 'Mark Manson'
+      title: 'The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life'
+    russian:
+      author: 'Марк Мэнсон'
+      title: 'Тонкое искусство пофигизма. Парадоксальный способ жить счастливо'
+
   - date: 'Jan 21, 2018'
     goodreads_id: '3010732'
     original:
