@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Feb 4, 2018'
+    goodreads_id: '23251297-schatten-im-paradies'
+    original:
+      author: 'Erich Maria Remarque'
+      title: 'Schatten im Paradies'
+    russian:
+      author: 'Эрих Мария Ремарк'
+      title: 'Тени в раю'
+
   - date: 'Jan 24, 2018'
     goodreads_id: '36110536'
     original:

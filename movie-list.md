@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Black Swan'
+    year: 2010
+    rating: 4.5
+    imdb_title: 'tt0947798'
+
   - title: 'Argo'
     year: 2012
     rating: 4
