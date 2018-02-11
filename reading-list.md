@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Feb 10, 2018'
+    goodreads_id: '26889576-the-big-short'
+    original:
+      author: 'Michael Lewis'
+      title: 'The Big Short: Inside the Doomsday Machine'
+    russian:
+      author: 'Майкл Льюис'
+      title: 'Игра на понижение: Тайные пружины финансовой катастрофы'
+
   - date: 'Feb 4, 2018'
     goodreads_id: '23251297-schatten-im-paradies'
     original:
