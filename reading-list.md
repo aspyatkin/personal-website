@@ -3,6 +3,24 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Feb 18, 2018'
+    goodreads_id: '36624281-1'
+    original:
+      author: 'Nick Bilton'
+      title: 'American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road'
+    russian:
+      author: 'Ник Билтон'
+      title: 'Киберпреступник №1. История создателя подпольной сетевой империи'
+
+  - date: 'Feb 14, 2018'
+    goodreads_id: '19117.Fathers_and_Sons'
+    original:
+      author: 'Иван Сергеевич Тургенев'
+      title: 'Отцы и дети'
+    english:
+      author: 'Ivan Turgenev'
+      title: 'Fathers and Sons'
+
   - date: 'Feb 10, 2018'
     goodreads_id: '26889576-the-big-short'
     original:
