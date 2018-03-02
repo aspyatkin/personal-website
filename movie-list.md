@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'All the Money in the World'
+    year: 2017
+    rating: 4
+    imdb_title: 'tt5294550'
+
   - title: 'Black Swan'
     year: 2010
     rating: 4.5
