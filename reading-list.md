@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Mar 18, 2018'
+    goodreads_id: '79834.Lust_for_Life'
+    original:
+      author: 'Irving Stone'
+      title: 'Lust for Life'
+    russian:
+      author: 'Ирвинг Стоун'
+      title: 'Жажда жизни'
+
   - date: 'Feb 18, 2018'
     goodreads_id: '36624281-1'
     original:
