@@ -10,7 +10,7 @@ read_time: true
 image: /assets/volgactf-2018-quals/img/cover.jpg
 ---
 
-On the weekend [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team launched an annual competition series by holding a [VolgaCTF 2018 Quals](https://ctftime.org/event/539){:target="_blank"} event. The contest started on March 23th at 15:00 UTC and lasted 48 hours. It went quite smoothly and we would like to share some key metrics that were collected during the event.
+On the weekend [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team launched an annual competition series by holding a [VolgaCTF 2018 Quals](https://ctftime.org/event/539){:target="_blank"} event. The contest started on March 23rd at 15:00 UTC and lasted 48 hours. It went quite smoothly and we would like to share some key metrics that were collected during the event.
 
 <script src="/assets/volgactf-2018-quals/js/Chart.bundle.min.js"></script>
 
