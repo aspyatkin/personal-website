@@ -10,11 +10,11 @@ read_time: true
 image: /assets/volgactf-2018-quals/img/cover.jpg
 ---
 
-On the weekend [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team launched an annual competition series with [VolgaCTF 2018 Quals](https://ctftime.org/event/539){:target="_blank"} event. The contest started on March 23th at 15:00 UTC and lasted 48 hours. It went quite smoothly and we would like to share some key metrics that were collected during the event.
+On the weekend [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team launched an annual competition series by holding a [VolgaCTF 2018 Quals](https://ctftime.org/event/539){:target="_blank"} event. The contest started on March 23th at 15:00 UTC and lasted 48 hours. It went quite smoothly and we would like to share some key metrics that were collected during the event.
 
 <script src="/assets/volgactf-2018-quals/js/Chart.bundle.min.js"></script>
 
-Wherever possible, the data will be compared against [Volga CTF 2017 Quals](/volgactf-2017-quals-key-metrics/), which was held almost a year ago, so as to give a reader a perception of growing interest to CTF competitions amongst people all over the world.
+Wherever possible, the data will be compared against [Volga CTF 2017 Quals](/volgactf-2017-quals-key-metrics/), which was held almost a year ago, so as to give a reader a perception of a growing interest in information security as a whole, and in particular in CTF competitions amongst people all over the world.
 
 ## Sign up
 Sign up was made available almost a month before the competition start. Some participants decided to register in advance, while the all-time record was established on the first day of the competition, March 23rd.
@@ -124,11 +124,11 @@ Fortunately, no team was disqualified. Although, we have spotted a hilarious mom
 
 ![And extract from logs](/assets/volgactf-2018-quals/img/logs-extract.png)
 
-One might notice that the number of teams who managed to solve at least one task has decreased. Well, due to the absense of "Quiz" task this year (whether you liked the competition or not, any sort of answer will do), this hardly comes as a surprise.
+One might notice that the number of teams who managed to solve at least one task has decreased. Well, due to the absence of "Quiz" task this year (whether you liked the competition or not, any sort of answer will do), this hardly comes as a surprise.
 <br>
 
 ## Team sign in activity
-The competition lasted 48 hours and participants seemed to be quite active. The chart below shows how many different teams logged in throughout the contest.
+The competition lasted 48 hours and participants seemed to be fairly active. The chart below shows how many different teams logged in during the contest.
 
 <canvas id="chart_signin" width="400" height="300"></canvas>
 
@@ -328,7 +328,7 @@ var chartSubmitDistribution = new Chart(ctx3, {
 <br>
 
 ## Task hit distribution
-A task hit is a submit of a correct answer. 411 teams succeeded in solving tasks. 171 solved only one task, and 2 performed exceptionally well with 16 and 17 solved tasks accordingly.
+411 teams succeeded in solving tasks. 171 solved only one task, and 2 performed exceptionally well with 16 and 17 solved tasks accordingly.
 
 <canvas id="chart_hit_distribution" width="400" height="300"></canvas>
 
@@ -396,7 +396,7 @@ var chartSubmitDistribution = new Chart(ctx4, {
 <br>
 
 ## Task review distribution
-Teams were able to submit reviews to the tasks they solved. Reviews provide task authors with valuable feedback. 121 teams wrote only one review, and 1 team made as many as 13 reviews. Well done!
+Reviews provide task authors with valuable feedback. Teams were able to submit reviews to the tasks they solved. 121 teams wrote only one review, and 1 team made as many as 13 reviews. Well done!
 
 <canvas id="chart_review_distribution" width="400" height="300"></canvas>
 
@@ -521,7 +521,7 @@ var chartSubmitDistribution = new Chart(ctx6, {
 </script>
 <br>
 
-And here is a comparision table:
+And here is a comparison table:
 
 | # | Country | Number of teams (2017) | Number of teams (2018) | Change |
 | - | ------- | ---------------------- | ---------------------- | ------ |
@@ -615,8 +615,8 @@ And here is a comparision table:
 | 88 | Antigua and Barbuda | 0 | 1 | <span style="color: green">+1</span> |
 {:.mbtablestyle}
 
-Country data above was collected from teams' profiles. During the sign up, a country field was automatically filled in according to GeoIP data provided by [MaxMind](http://www.maxmind.com), yet a team was still able to change it.
+The country data above was collected from teams' profiles. During the sign up, a country field was automatically filled in according to GeoIP data provided by [MaxMind](http://www.maxmind.com), yet a team was still able to change it.
 
-Note that country data might not be pretty accurate - for instance, it is really hard to believe that there is a team from Antarctica. However, who knows...
+Note that the country data might not be pretty accurate - for instance, it is really hard to believe that there is a team from Antarctica. However, who knows...
 
 **P.S.** Further posts will focus on task metrics. Stay tuned!
