@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Apr 01, 2018'
+    goodreads_id: '5759.Fight_Club'
+    original:
+      author: 'Chuck Palahniuk'
+      title: 'Fight Club'
+    russian:
+      author: 'Чак Паланик'
+      title: 'Бойцовский клуб'
+
   - date: 'Mar 18, 2018'
     goodreads_id: '79834.Lust_for_Life'
     original:

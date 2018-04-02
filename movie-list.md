@@ -19,6 +19,16 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Contact'
+    year: 1997
+    rating: 4.5
+    imdb_title: 'tt0118884'
+
+  - title: 'There Will Be Blood'
+    year: 2007
+    rating: 4
+    imdb_title: 'tt0469494'
+
   - title: 'All the Money in the World'
     year: 2017
     rating: 4
