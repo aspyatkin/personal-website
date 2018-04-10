@@ -7,6 +7,7 @@ author: aspyatkin
 meta: CTF, VolgaCTF, Quals
 comments: true
 read_time: true
+image: /assets/volgactf-2018-quals/img/cover2.jpg
 ---
 
 In this post we would like to share some task statistics collected during the [event](https://ctftime.org/event/539).
