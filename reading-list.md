@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Apr 15, 2018'
+    goodreads_id: '270032.Seven_Years_in_Tibet'
+    original:
+      author: 'Heinrich Harrer'
+      title: 'Sieben Jahre in Tibet'
+    russian:
+      author: 'Генрих Харрер'
+      title: 'Семь лет в Тибете'
+
   - date: 'Apr 01, 2018'
     goodreads_id: '5759.Fight_Club'
     original:
