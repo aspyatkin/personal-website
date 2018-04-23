@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Apr 22, 2018'
+    goodreads_id: '38505.Hollywood'
+    original:
+      author: 'Charles Bukowski'
+      title: 'Hollywood'
+    russian:
+      author: 'Чарльз Буковски'
+      title: 'Голливуд'
+
   - date: 'Apr 15, 2018'
     goodreads_id: '270032.Seven_Years_in_Tibet'
     original:

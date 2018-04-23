@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'La ragazza nella nebbia'
+    year: 2017
+    rating: 4
+    imdb_title: 'tt6892400'
+
   - title: 'Alexander'
     year: 2004
     rating: 4
