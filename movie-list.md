@@ -19,6 +19,16 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'American Psycho'
+    year: 2000
+    rating: 3.5
+    imdb_title: 'tt0144084'
+
+  - title: 'Rescue Dawn'
+    year: 2006
+    rating: 4
+    imdb_title: 'tt0462504'
+
   - title: 'La ragazza nella nebbia'
     year: 2017
     rating: 4
