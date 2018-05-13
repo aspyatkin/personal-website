@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Equilibrium'
+    year: 2002
+    rating: 3.5
+    imdb_title: 'tt0238380'
+
   - title: 'American Psycho'
     year: 2000
     rating: 3.5
