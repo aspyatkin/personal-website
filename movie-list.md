@@ -19,6 +19,16 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'JFK'
+    year: 1991
+    rating: 4.5
+    imdb_title: 'tt0102138'
+
+  - title: 'Safe House'
+    year: 2012
+    rating: 3.5
+    imdb_title: 'tt1599348'
+
   - title: 'Equilibrium'
     year: 2002
     rating: 3.5
