@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'May 26, 2018'
+    goodreads_id: '4937.The_Brothers_Karamazov'
+    original:
+      author: 'Фёдор Михайлович Достоевский'
+      title: 'Братья Карамазовы'
+    english:
+      author: 'Fyodor Dostoevsky'
+      title: 'The Brothers Karamazov'
+
   - date: 'Apr 22, 2018'
     goodreads_id: '38505.Hollywood'
     original:

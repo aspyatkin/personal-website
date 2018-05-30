@@ -19,6 +19,16 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Training Day'
+    year: 2001
+    rating: 3.5
+    imdb_title: 'tt0139654'
+
+  - title: 'Solo: A Star Wars Story'
+    year: 2018
+    rating: 4
+    imdb_title: 'tt3778644'
+
   - title: 'JFK'
     year: 1991
     rating: 4.5
