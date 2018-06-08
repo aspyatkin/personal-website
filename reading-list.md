@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jun 03, 2018'
+    goodreads_id: '25877256-1985'
+    original:
+      author: 'Anthony Burgess'
+      title: '1985'
+    russian:
+      author: 'Энтони Бёрджесс'
+      title: '1985'
+
   - date: 'May 26, 2018'
     goodreads_id: '4937.The_Brothers_Karamazov'
     original:
