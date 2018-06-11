@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jun 10, 2018'
+    goodreads_id: '2160438.The_Wheels_of_Chance'
+    original:
+      author: 'Herbert Wells'
+      title: 'The Wheels of Chance: A Bicycling Idyll'
+    russian:
+      author: 'Герберт Уэллс'
+      title: 'Колёса фортуны'
+
   - date: 'Jun 03, 2018'
     goodreads_id: '25877256-1985'
     original:
