@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jun 23, 2018'
+    goodreads_id: '37805705'
+    original:
+      author: 'Илья Ильф, Евгений Петров'
+      title: 'Одноэтажная Америка'
+    english:
+      author: 'Ilya Ilf, Eugene Petrov'
+      title: 'Ilf and Petrov''s American Road Trip: The 1935 Travelogue of Two Soviet Writers'
+
   - date: 'Jun 10, 2018'
     goodreads_id: '2160438.The_Wheels_of_Chance'
     original:
