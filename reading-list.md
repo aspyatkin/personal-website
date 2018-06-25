@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jun 24, 2018'
+    goodreads_id: '4652.In_Our_Time'
+    original:
+      author: 'Ernest Hemingway'
+      title: 'In Our Time'
+    russian:
+      author: 'Эрнест Хемингуэй'
+      title: 'В наше время'
+
   - date: 'Jun 23, 2018'
     goodreads_id: '37805705'
     original:
