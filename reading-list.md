@@ -3,6 +3,24 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jun 30, 2018'
+    goodreads_id: '1053127.In_the_Days_of_the_Comet'
+    original:
+      author: 'Herbert Wells'
+      title: 'In the Days of the Comet'
+    russian:
+      author: 'Герберт Уэллс'
+      title: 'В дни кометы'
+
+  - date: 'Jun 28, 2018'
+    goodreads_id: '108218.Men_Without_Women'
+    original:
+      author: 'Ernest Hemingway'
+      title: 'Men Without Women'
+    russian:
+      author: 'Эрнест Хемингуэй'
+      title: 'Мужчины без женщин'
+
   - date: 'Jun 24, 2018'
     goodreads_id: '4652.In_Our_Time'
     original:
