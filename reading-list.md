@@ -3,6 +3,24 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jul 3, 2018'
+    goodreads_id: '10778.Across_the_River_and_into_the_Trees'
+    original:
+      author: 'Ernest Hemingway'
+      title: 'Across the River and into the Trees'
+    russian:
+      author: 'Эрнест Хемингуэй'
+      title: 'За рекой, в тени деревьев'
+
+  - date: 'Jul 2, 2018'
+    goodreads_id: '953787.The_Food_of_the_Gods'
+    original:
+      author: 'Herbert Wells'
+      title: 'The Food of the Gods'
+    russian:
+      author: 'Герберт Уэллс'
+      title: 'Пища богов'
+
   - date: 'Jun 30, 2018'
     goodreads_id: '1053127.In_the_Days_of_the_Comet'
     original:
