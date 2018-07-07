@@ -3,6 +3,24 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jul 7, 2018'
+    goodreads_id: '13433780'
+    original:
+      author: 'William Somerset Maugham'
+      title: 'The Moon and Sixpence'
+    russian:
+      author: 'Сомерсет Моэм'
+      title: 'Луна и грош'
+
+  - date: 'Jul 5, 2018'
+    goodreads_id: '9597.Player_Piano'
+    original:
+      author: 'Kurt Vonnegut'
+      title: 'Player Piano'
+    russian:
+      author: 'Курт Воннегут'
+      title: 'Механическое пианино'
+
   - date: 'Jul 3, 2018'
     goodreads_id: '10778.Across_the_River_and_into_the_Trees'
     original:
