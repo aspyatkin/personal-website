@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jul 8, 2018'
+    goodreads_id: '2273374._'
+    original:
+      author: 'Ernest Hemingway'
+      title: 'The Sun Also Rises'
+    russian:
+      author: 'Эрнест Хемингуэй'
+      title: 'Фиеста'
+
   - date: 'Jul 7, 2018'
     goodreads_id: '13433780'
     original:
