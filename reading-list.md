@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jul 11, 2018'
+    goodreads_id: '90708.Winner_Take_Nothing'
+    original:
+      author: 'Ernest Hemingway'
+      title: 'Winner Take Nothing'
+    russian:
+      author: 'Эрнест Хемингуэй'
+      title: 'Победитель не получает ничего'
+
   - date: 'Jul 8, 2018'
     goodreads_id: '2273374._'
     original:
