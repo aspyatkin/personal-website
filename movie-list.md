@@ -19,6 +19,16 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Mission: Impossible'
+    year: 1996
+    rating: 4
+    imdb_title: 'tt0117060'
+
+  - title: 'Mission: Impossible - Fallout'
+    year: 2018
+    rating: 4
+    imdb_title: 'tt4912910'
+
   - title: 'Training Day'
     year: 2001
     rating: 3.5
