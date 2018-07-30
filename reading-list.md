@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jul 29, 2018'
+    goodreads_id: '21.A_Short_History_of_Nearly_Everything'
+    original:
+      author: 'Bill Bryson'
+      title: 'A Short History of Nearly Everything'
+    russian:
+      author: 'Билл Брайсон'
+      title: 'Краткая история почти всего на свете'
+
   - date: 'Jul 11, 2018'
     goodreads_id: '90708.Winner_Take_Nothing'
     original:
