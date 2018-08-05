@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Aug 04, 2018'
+    goodreads_id: '12857.The_Gambler'
+    original:
+      author: 'Фёдор Михайлович Достоевский'
+      title: 'Игрок'
+    english:
+      author: 'Fyodor Dostoevsky'
+      title: 'The Gambler'
+
   - date: 'Jul 29, 2018'
     goodreads_id: '21.A_Short_History_of_Nearly_Everything'
     original:

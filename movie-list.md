@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Mission: Impossible II'
+    year: 2000
+    rating: 3.5
+    imdb_title: 'tt0120755'
+
   - title: 'Mission: Impossible'
     year: 1996
     rating: 4
