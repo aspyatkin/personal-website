@@ -19,6 +19,16 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Mission: Impossible - Ghost Protocol'
+    year: 2011
+    rating: 3.5
+    imdb_title: 'tt1229238'
+
+  - title: 'Mission: Impossible III'
+    year: 2006
+    rating: 3.5
+    imdb_title: 'tt0317919'
+
   - title: 'Mission: Impossible II'
     year: 2000
     rating: 3.5
@@ -291,7 +301,7 @@ movie_list:
 
   - title: 'Mission: Impossible - Rogue Nation'
     year: 2015
-    rating: 3.5
+    rating: 4.0
     imdb_title: 'tt2381249'
 
   - title: 'Kick-Ass'

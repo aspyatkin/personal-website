@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Aug 17, 2018'
+    goodreads_id: '11084145-steve-jobs'
+    original:
+      author: 'Walter Isaacson'
+      title: 'Steve Jobs'
+    russian:
+      author: 'Уолтер Айзексон'
+      title: 'Стив Джобс'
+
   - date: 'Aug 04, 2018'
     goodreads_id: '12857.The_Gambler'
     original:
