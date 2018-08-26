@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Aug 26, 2018'
+    goodreads_id: '413179.The_Clash_of_Civilizations_and_the_Remaking_of_World_Order'
+    original:
+      author: 'Samuel P. Huntington'
+      title: 'The Clash of Civilizations and the Remaking of World Order'
+    russian:
+      author: 'Самюэль Хантингтон'
+      title: 'Столкновение цивилизаций'
+
   - date: 'Aug 17, 2018'
     goodreads_id: '11084145-steve-jobs'
     original:
