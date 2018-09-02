@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Sep 1, 2018'
+    goodreads_id: '22466119'
+    original:
+      author: 'Алексей Николаевич Толстой'
+      title: 'Аэлита'
+    english:
+      author: 'Aleksey Tolstoy'
+      title: 'Aelita'
+
   - date: 'Aug 26, 2018'
     goodreads_id: '413179.The_Clash_of_Civilizations_and_the_Remaking_of_World_Order'
     original:
