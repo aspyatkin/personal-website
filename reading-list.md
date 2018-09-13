@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Sep 9, 2018'
+    goodreads_id: '23588256'
+    original:
+      author: 'Алексей Николаевич Толстой'
+      title: 'Гиперболоид инженера Гарина'
+    english:
+      author: 'Aleksey Tolstoy'
+      title: 'The Garin Death Ray'
+
   - date: 'Sep 1, 2018'
     goodreads_id: '22466119'
     original:
