@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Sep 22, 2018'
+    goodreads_id: '18077875-essentialism'
+    original:
+      author: 'Greg McKeown'
+      title: 'Essentialism: The Disciplined Pursuit of Less'
+    russian:
+      author: 'Грег МакКеон'
+      title: 'Эссенциализм. Путь к простоте'
+
   - date: 'Sep 9, 2018'
     goodreads_id: '23588256'
     original:
