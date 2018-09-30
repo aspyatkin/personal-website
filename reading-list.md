@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Sep 30, 2018'
+    goodreads_id: '282447.The_Revolt_of_the_Masses'
+    original:
+      author: 'José Ortega y Gasset'
+      title: 'La rebelión de las masas'
+    russian:
+      author: 'Хосе Ортега-и-Гассет'
+      title: 'Восстание масс'
+
   - date: 'Sep 22, 2018'
     goodreads_id: '18077875-essentialism'
     original:

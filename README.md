@@ -1,2 +1,2 @@
-# aspyatkin.com
-My personal website built with [Jekyll](http://jekyllrb.com).
+# personal website
+My [personal website](https://aspyatkin.com) built with [Jekyll](http://jekyllrb.com).
