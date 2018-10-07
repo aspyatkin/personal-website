@@ -3,6 +3,24 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Oct 7, 2018'
+    goodreads_id: '13722891'
+    original:
+      author: '孫子'
+      title: '孫子兵法'
+    russian:
+      author: 'Сунь-Цзы'
+      title: 'Искусство войны'
+
+  - date: 'Oct 6, 2018'
+    goodreads_id: '25230722'
+    original:
+      author: 'Евгений Иванович Замятин'
+      title: 'Мы'
+    english:
+      author: 'Yevgeny Zamyatin'
+      title: 'We'
+
   - date: 'Sep 30, 2018'
     goodreads_id: '282447.The_Revolt_of_the_Masses'
     original:

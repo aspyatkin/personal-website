@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Pain & Gain'
+    year: 2013
+    rating: 4
+    imdb_title: 'tt1980209'
+
   - title: 'Mission: Impossible - Ghost Protocol'
     year: 2011
     rating: 3.5
