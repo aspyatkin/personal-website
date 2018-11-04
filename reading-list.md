@@ -4,7 +4,7 @@ title: Reading list
 permalink: /reading-list/
 book_list:
   - date: 'Nov 3, 2018'
-    goodreads_id: ''
+    goodreads_id: '181206.The_80_20_Principle'
     original:
       author: 'Richard Koch'
       title: 'The 80/20 Principle: The Secret to Achieving More with Less'
