@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Nov 4, 2018'
+    goodreads_id: '4630.To_Have_and_Have_Not'
+    original:
+      author: 'Ernest Hemingway'
+      title: 'To Have and Have Not'
+    russian:
+      author: 'Эрнест Хемингуэй'
+      title: 'Иметь и не иметь'
+
   - date: 'Nov 3, 2018'
     goodreads_id: '181206.The_80_20_Principle'
     original:

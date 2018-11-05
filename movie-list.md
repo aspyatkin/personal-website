@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Good Bye Lenin!'
+    year: 2003
+    rating: 4
+    imdb_title: 'tt0301357'
+
   - title: 'Pain & Gain'
     year: 2013
     rating: 4
