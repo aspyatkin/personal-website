@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Bohemian Rhapsody'
+    year: 2018
+    rating: 4.5
+    imdb_title: 'tt1727824'
+
   - title: 'Good Bye Lenin!'
     year: 2003
     rating: 4
