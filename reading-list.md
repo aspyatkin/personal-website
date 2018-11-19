@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Nov 18, 2018'
+    goodreads_id: '31326.Theatre'
+    original:
+      author: 'William Somerset Maugham'
+      title: 'Theatre'
+    russian:
+      author: 'Сомерсет Моэм'
+      title: 'Театр'
+
   - date: 'Nov 4, 2018'
     goodreads_id: '4630.To_Have_and_Have_Not'
     original:
