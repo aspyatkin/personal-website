@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Nov 24, 2018'
+    goodreads_id: '925367.The_Climb'
+    original:
+      author: 'Anatoli Boukreev,  G. Weston DeWalt'
+      title: 'The Climb: Tragic Ambitions on Everest'
+    russian:
+      author: 'Анатолий Букреев, Г. Вестон ДеУолт'
+      title: 'Эверест. Смертельное восхождение'
+
   - date: 'Nov 18, 2018'
     goodreads_id: '31326.Theatre'
     original:
