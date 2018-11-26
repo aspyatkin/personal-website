@@ -27,7 +27,7 @@ For instance, an Ubuntu Server 18.04 Vagrant box built with Packer in [chef/bent
 
 I utilized an Apple MacBook Pro (Late 2013) as a test stand with the following software installed:
 
-- Mac OS Mojave 10.14.1
+- macOS Mojave 10.14.1
 - Virtualbox 5.2.22
 - Vagrant 2.2.1
 - Packer 1.3.2
@@ -97,7 +97,7 @@ Not only was the improvement made in the size of the resulting box, but also in 
 | step 3     | 205 Mb   | 8m 54s     |
 {:.mbtablestyle}
 
-The final box (step 3) was released on [Vagrant Cloud](https://app.vagrantup.com/aspyatkin/boxes/ubuntu-18.04-server/versions/1.1.0){:target="_blank"}.
+The final box (step 3) was released on [Vagrant Cloud](https://app.vagrantup.com/aspyatkin/boxes/ubuntu-18.04-server/versions/1.1.0){:target="_blank"}. The project is also published on [GitHub](https://github.com/aspyatkin/ubuntu-18.04-packer){:target="_blank"}.
 
 Using the very same technique, I also managed to reduce the size of [Ubuntu Server 16.04](https://app.vagrantup.com/aspyatkin/boxes/ubuntu-16.04-server-amd64/versions/3.1.1){:target="_blank"} Vagrant box down to <mark>167 Mb</mark>. I was not able to find out whether my boxes are the most minimal but I am pretty sure that the outcome has proved highly satisfactory.
 
