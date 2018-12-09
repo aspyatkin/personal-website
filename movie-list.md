@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    year: 1964
+    rating: 5
+    imdb_title: 'tt0057012'
+
   - title: 'Bohemian Rhapsody'
     year: 2018
     rating: 4.5
