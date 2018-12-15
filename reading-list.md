@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Dec 10, 2018'
+    goodreads_id: '11609409-the-untold-history-of-the-united-states'
+    original:
+      author: 'Oliver Stone,  Peter Kuznick'
+      title: 'The Untold History of The United States'
+    russian:
+      author: 'Оливер Стоун, Питер Кузник'
+      title: 'Нерассказанная история США'
+
   - date: 'Nov 24, 2018'
     goodreads_id: '925367.The_Climb'
     original:
