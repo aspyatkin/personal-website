@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Dec 15, 2018'
+    goodreads_id: '78275.The_Wayward_Bus'
+    original:
+      author: 'John Steinbeck'
+      title: 'The Wayward Bus'
+    russian:
+      author: 'Джон Стейнбек'
+      title: 'Заблудившийся автобус'
+
   - date: 'Dec 10, 2018'
     goodreads_id: '11609409-the-untold-history-of-the-united-states'
     original:

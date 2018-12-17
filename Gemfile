@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.5.0'
-gem 'jekyll-theme-basically-basic', '~> 1.1.0'
+gem 'jekyll'
+gem 'jekyll-theme-basically-basic'
 
 group :jekyll_plugins do
-  gem 'jekyll-seo-tag', '~> 2.2.3'
-  gem 'jekyll-sitemap', '~> 1.1.1'
-  gem 'jekyll-feed', '~> 0.6'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-feed'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

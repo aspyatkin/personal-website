@@ -21,7 +21,7 @@ On the one hand, a certain version on a box is downloaded only once. A cached co
  - a longer time spent downloading a box at first;
  - a substantial amount of space taken on a machine's disk.
 
-For instance, an Ubuntu Server 18.04 Vagrant box built with Packer in [chef/bento](https://github.com/chef/bento) project takes up <mark>457 Mb</mark>. There is definitely a room for improvement.
+For instance, an Ubuntu Server 18.04 Vagrant box built with Packer in [chef/bento](https://github.com/chef/bento) project takes up **457 Mb**. There is definitely a room for improvement.
 
 ## Prerequisites
 
@@ -41,7 +41,7 @@ There was no point in creating a Packer configuration from scratch, so I reused 
 
 ## Step 0: starting point
 
-I made [an extract](https://github.com/aspyatkin/ubuntu-18.04-packer/tree/step0){:target="_blank"} from the aforementioned repository, the resulting box took up <mark>457 Mb</mark>.
+I made [an extract](https://github.com/aspyatkin/ubuntu-18.04-packer/tree/step0){:target="_blank"} from the aforementioned repository, the resulting box took up **457 Mb**.
 
 ## Step 1: disk, compression, audio, USB
 
@@ -51,29 +51,29 @@ Secondly, a minimal box may well do without a swap volume. Should the need arise
 
 Prior to 18.04 the following directive must be included in **preseed.cfg** so as to skip a warning about a swap volume:
 
-```
+```sh
 d-i partman-basicfilesystems/no_swap boolean false
 ```
 
 As of 18.04 the installer creates a swap file by default. To override this behaviour, an other directive must be utilized:
 
-```
+```sh
 d-i partman-swapfile/size string 0
 ```
 
 Last but not the least, I tuned the **compression** option in a Packer template file (from 6 as a default up to 9) and disabled audio and USB capabilities for a VM.
 
-The [changed configuration](https://github.com/aspyatkin/ubuntu-18.04-packer/tree/step1){:target="_blank"} results in a <mark>450 Mb</mark> box and appears to be the first sign of improvement.
+The [changed configuration](https://github.com/aspyatkin/ubuntu-18.04-packer/tree/step1){:target="_blank"} results in a **450 Mb** box and appears to be the first sign of improvement.
 
 ## Step 2: skip tasksel standard task
 
 By default, Ubuntu installer comes with a huge set of packages which are included in a tasksel standard task. I added the following preseed directive so as to skip it:
 
-```
+```sh
 tasksel tasksel/skip-tasks string standard
 ```
 
-Still several packages must be installed, namely **openssh-server**, **gcc** and **make**, since they are necessary for remote access and Virtualbox Guest Additions. With the [modified configuration](https://github.com/aspyatkin/ubuntu-18.04-packer/tree/step2){:target="_blank"} the size of the box came to <mark>306 Mb</mark>. Yet there is still something to be done.
+Still several packages must be installed, namely **openssh-server**, **gcc** and **make**, since they are necessary for remote access and Virtualbox Guest Additions. With the [modified configuration](https://github.com/aspyatkin/ubuntu-18.04-packer/tree/step2){:target="_blank"} the size of the box came to **306 Mb**. Yet there is still something to be done.
 
 ## Step 3: remove more packages
 
@@ -82,7 +82,7 @@ Turns out, Ubuntu has a great many packages that may be safely deleted. For inst
 - wireless-regdb;
 - iw.
 
-The full list may be found in the [last configuration](https://github.com/aspyatkin/ubuntu-18.04-packer/tree/step3){:target="_blank"} (scripts/cleanup.sh). The removal of these packages yields in a <mark>205 Mb</mark> box.
+The full list may be found in the [last configuration](https://github.com/aspyatkin/ubuntu-18.04-packer/tree/step3){:target="_blank"} (scripts/cleanup.sh). The removal of these packages yields in a **205 Mb** box.
 
 ## Summary
 
@@ -99,7 +99,7 @@ Not only was the improvement made in the size of the resulting box, but also in 
 
 The final box (step 3) was released on [Vagrant Cloud](https://app.vagrantup.com/aspyatkin/boxes/ubuntu-18.04-server/versions/1.1.0){:target="_blank"}. The project is also published on [GitHub](https://github.com/aspyatkin/ubuntu-18.04-packer){:target="_blank"}.
 
-Using the very same technique, I also managed to reduce the size of [Ubuntu Server 16.04](https://app.vagrantup.com/aspyatkin/boxes/ubuntu-16.04-server-amd64/versions/3.1.1){:target="_blank"} Vagrant box down to <mark>167 Mb</mark>. I was not able to find out whether my boxes are the most minimal but I am pretty sure that the outcome has proved highly satisfactory.
+Using the very same technique, I also managed to reduce the size of [Ubuntu Server 16.04](https://app.vagrantup.com/aspyatkin/boxes/ubuntu-16.04-server-amd64/versions/3.1.1){:target="_blank"} Vagrant box down to **167 Mb**. I was not able to find out whether my boxes are the most minimal but I am pretty sure that the outcome has proved highly satisfactory.
 
 ## Tips & useful commands
 
