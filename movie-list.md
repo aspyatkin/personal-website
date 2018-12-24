@@ -19,6 +19,11 @@ director_list:
     imdb_name: 'nm0000142'
 
 movie_list:
+  - title: 'In Bruges'
+    year: 2008
+    rating: 4
+    imdb_title: 'tt0780536'
+
   - title: 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
     year: 1964
     rating: 5

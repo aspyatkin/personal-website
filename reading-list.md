@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Dec 23, 2017'
+    goodreads_id: '4633.Islands_in_the_Stream'
+    original:
+      author: 'Ernest Hemingway'
+      title: 'Islands in the Stream'
+    russian:
+      author: 'Эрнест Хемингуэй'
+      title: 'Острова и море'
+
   - date: 'Dec 15, 2018'
     goodreads_id: '78275.The_Wayward_Bus'
     original:
