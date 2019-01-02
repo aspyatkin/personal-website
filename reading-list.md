@@ -3,7 +3,16 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
-  - date: 'Dec 23, 2017'
+  - date: 'Dec 30, 2018'
+    goodreads_id: '24724602-flash-boys'
+    original:
+      author: 'Michael Lewis'
+      title: 'Flash Boys: A Wall Street Revolt'
+    russian:
+      author: 'Майкл Льюис'
+      title: 'Flash Boys: Высокочастотная революция на Уолл-Стрит'
+
+  - date: 'Dec 23, 2018'
     goodreads_id: '4633.Islands_in_the_Stream'
     original:
       author: 'Ernest Hemingway'
