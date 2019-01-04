@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jan 3, 2019'
+    goodreads_id: '30290789'
+    original:
+      author: 'Desiderius Erasmus Roterodamus'
+      title: 'Moriae elogium, id est, Stulticiae laus'
+    russian:
+      author: 'Эразм Роттердамский'
+      title: 'Похвала Глупости'
+
   - date: 'Dec 30, 2018'
     goodreads_id: '24724602-flash-boys'
     original:
