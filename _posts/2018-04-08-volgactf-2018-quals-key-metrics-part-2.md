@@ -5,7 +5,7 @@ permalink: /volgactf-2018-quals-key-metrics-part-2/
 date: 2018-04-08 20:00:00 +0400
 author: aspyatkin
 meta: CTF, VolgaCTF, Quals
-comments: true
+comments: false
 read_time: true
 image: /assets/volgactf-2018-quals/img/cover2.jpg
 ---

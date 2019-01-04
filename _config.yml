@@ -22,11 +22,6 @@ timezone: Europe/Samara
 
 author: aspyatkin
 
-disqus:
-    shortname: aspyatkindotcom
-
-google_analytics: UA-90317412-1
-
 exclude:
   - Gemfile
   - Gemfile.lock

@@ -5,7 +5,7 @@ permalink: /volgactf-2017-quals-key-metrics/
 date: 2017-03-27 08:00:00 +0400
 author: aspyatkin
 meta: VolgaCTF
-comments: true
+comments: false
 read_time: true
 ---
 

@@ -5,7 +5,7 @@ permalink: /building-a-minimal-vagrant-box/
 date: 2018-11-26 20:00:00 +0400
 author: aspyatkin
 meta: DevOps, Linux, Ubuntu, Packer, Vagrant
-comments: true
+comments: false
 read_time: true
 image: /assets/building-a-minimal-vagrant-box/cover.jpg
 ---

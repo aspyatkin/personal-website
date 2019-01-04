@@ -5,7 +5,7 @@ permalink: /volgactf-2017-teaser-key-metrics/
 date: 2017-02-25 19:00:00 +0400
 author: aspyatkin
 meta: VolgaCTF
-comments: true
+comments: false
 read_time: true
 ---
 
