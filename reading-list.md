@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jan 8, 2019'
+    goodreads_id: '10254115-rich-dad-s-guide-to-investing'
+    original:
+      author: 'Robert T. Kiyosaki'
+      title: 'Rich Dad''s Guide to Investing: What the Rich Invest in, That the Poor and the Middle Class Do Not!'
+    russian:
+      author: 'Роберт Кийосаки'
+      title: 'Руководство богатого папы по инвестированию'
+
   - date: 'Jan 3, 2019'
     goodreads_id: '30290789'
     original:
