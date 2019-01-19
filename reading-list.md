@@ -3,6 +3,15 @@ layout: reading-list
 title: Reading list
 permalink: /reading-list/
 book_list:
+  - date: 'Jan 14, 2019'
+    goodreads_id: '4796.The_Winter_of_Our_Discontent'
+    original:
+      author: 'John Steinbeck'
+      title: 'The Winter of Our Discontent'
+    russian:
+      author: 'Джон Стейнбек'
+      title: 'Зима тревоги нашей'
+
   - date: 'Jan 8, 2019'
     goodreads_id: '10254115-rich-dad-s-guide-to-investing'
     original:
