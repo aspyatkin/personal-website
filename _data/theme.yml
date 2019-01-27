@@ -7,5 +7,4 @@ google_fonts:
 navigation_pages:
   - about.md
   - oss.md
-  - reading-list.md
   - movie-list.md
