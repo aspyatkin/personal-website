@@ -45,6 +45,11 @@ CEFR level: `C2`
 [Statement of results](/assets/files/CAE-StatementOfResults.pdf){:target="_blank"}
 
 ##### German
-I've been learning German since September 2017, hoping to approach B1 level before long.
+Im September 2017 habe ich angefangen, Deutsch zu lernen. Im Juni 2019 habe ich meine erste Prüfung bzw. Goethe-Zertifikat B1 bestanden.
 
-Seit September 2017 lerne ich Deutsch. Ich hoffe, dass ich bald B1-Niveau erreichen werde.
+[Goethe-Zertifikat B1](/assets/files/Goethe-Zertifikat-B1.pdf)
+
+<details>
+    <summary>In English</summary>
+    I've been learning German since September 2017. I passed my first German exam, namely Goethe-Zertifikat B1, in June 2019.
+</details>
