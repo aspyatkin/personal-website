@@ -47,7 +47,7 @@ CEFR level: `C2`
 ##### German
 Im September 2017 habe ich angefangen, Deutsch zu lernen. Im Juni 2019 habe ich meine erste Prüfung bzw. Goethe-Zertifikat B1 bestanden.
 
-[Goethe-Zertifikat B1](/assets/files/Goethe-Zertifikat-B1.pdf)
+[Goethe-Zertifikat B1](/assets/files/Goethe-Zertifikat-B1.pdf){:target="_blank"}
 
 <details>
     <summary>In English</summary>
