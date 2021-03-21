@@ -4,7 +4,7 @@ title: 'VolgaCTF 2017 Quals: key metrics'
 permalink: /volgactf-2017-quals-key-metrics/
 date: 2017-03-27 08:00:00 +0400
 author: aspyatkin
-meta: VolgaCTF
+meta: CTF, VolgaCTF, 2017, Qualifier
 comments: false
 read_time: true
 ---
