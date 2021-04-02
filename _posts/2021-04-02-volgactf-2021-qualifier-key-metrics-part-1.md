@@ -2,7 +2,7 @@
 layout: post
 title: 'VolgaCTF 2021 Qualifier: report'
 permalink: /volgactf-2021-qualifier-report/
-date: 2021-04-01 16:00:00 +0400
+date: 2021-04-02 11:00:00 +0400
 author: aspyatkin
 meta: CTF, VolgaCTF, 2021, Qualifier
 comments: false
