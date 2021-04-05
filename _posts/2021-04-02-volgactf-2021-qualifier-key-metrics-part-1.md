@@ -31,7 +31,7 @@ Now we would like to share some key metrics that were collected during the compe
 - [Team/country distribution](#teamcountry-distribution)
 
 ## Tasks
-- [Static Site](static-site) 
+- [Static Site](#static-site)
 - [Online Wallet (Part 1)](#online-wallet-part-1)
 - [Online Wallet (Part 2)](#online-wallet-part-2)
 - [QR Codebook](#qr-codebook)
