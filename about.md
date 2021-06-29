@@ -45,11 +45,12 @@ CEFR level: `C2`
 [Statement of results](/assets/files/CAE-StatementOfResults.pdf){:target="_blank"}
 
 ##### German
-Im September 2017 habe ich angefangen, Deutsch zu lernen. Im Juni 2019 habe ich meine erste Prüfung bzw. Goethe-Zertifikat B1 bestanden.
-
+Ich lerne Deutsch seit September 2017. Mir ist gelungen, zwei Prüfungen erfolgreich zu bestehen, nämlich Goethe-Zertifikat B1 im Juni 2019 und Goethe-Zertifikat C1 im Juni 2021.
+<details>
+    <summary>[In English]</summary>
+    I've been learning German since September 2017. I passed two German exams, namely Goethe-Zertifikat B1 in June 2019 and Goethe-Zertifikat C1 in June 2021.
+</details>
+<hr>
 [Goethe-Zertifikat B1](/assets/files/Goethe-Zertifikat-B1.pdf){:target="_blank"}
 
-<details>
-    <summary>In English</summary>
-    I've been learning German since September 2017. I passed my first German exam, namely Goethe-Zertifikat B1, in June 2019.
-</details>
+[Goethe-Zertifikat C1](/assets/files/Goethe-Zertifikat-C1.pdf){:target="_blank"}
