@@ -3,7 +3,7 @@ layout: post
 title: 'VolgaCTF 2020 Qualifier: key metrics, part 2'
 permalink: /volgactf-2020-qualifier-key-metrics-part-2/
 date: 2021-03-28 14:00:00 +0400
-author: aspyatkin
+author: aptkn
 meta: CTF, VolgaCTF, 2020, Qualifier
 comments: false
 read_time: true

@@ -3,7 +3,7 @@ layout: post
 title: 'Building a minimal Vagrant box'
 permalink: /building-a-minimal-vagrant-box/
 date: 2018-11-26 20:00:00 +0400
-author: aspyatkin
+author: aptkn
 meta: DevOps, Linux, Ubuntu, Packer, Vagrant
 comments: false
 read_time: true

@@ -3,6 +3,6 @@ layout: home
 title: Hello there!
 ---
 
-![That is me](/assets/images/aspyatkin.jpg){:width="200px" height="200px"}  
+![That is me](/assets/images/aptkn.jpg){:width="300px" height="300px"}  
 
-I live in [Samara, Russia](https://www.google.ru/maps/place/Samara,+Samara+Oblast/@53.260908,50.198077,10z/data=!3m1!4b1!4m2!3m1!1s0x416618e22bd879d3:0xba95cda9bb3a030b){:target="_blank"}. I am a software engineer working at [Indigo Byte Systems, LLC](https://indigobyte.com){:target="_blank"} on [Dr.Explain](https://www.drexplain.com){:target="_blank"}, [Tiwri.com](https://www.tiwri.com){:target="_blank"} and [ConferenceCast.tv](https://conferencecast.tv){:target="_blank"}. I enjoy learning new cool stuff in software development and operations.
+I live in [Berlin, Germany](https://www.google.com/maps/place/Berlin/@52.5069312,13.1445498,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954){:target="_blank"}. I am a software engineer working at [heycar Group](https://hey.car){:target="_blank"}. I enjoy learning and applying my knowledge in software development and operations.

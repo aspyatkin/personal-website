@@ -3,7 +3,7 @@ layout: post
 title: 'VolgaCTF 2018 Quals: key metrics, part 2'
 permalink: /volgactf-2018-quals-key-metrics-part-2/
 date: 2018-04-08 20:00:00 +0400
-author: aspyatkin
+author: aptkn
 meta: CTF, VolgaCTF, 2018, Qualifier
 comments: false
 read_time: true

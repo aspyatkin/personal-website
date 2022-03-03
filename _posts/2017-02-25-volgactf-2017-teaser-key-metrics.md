@@ -3,7 +3,7 @@ layout: post
 title: 'VolgaCTF 2017 Teaser: key metrics'
 permalink: /volgactf-2017-teaser-key-metrics/
 date: 2017-02-25 19:00:00 +0400
-author: aspyatkin
+author: aptkn
 meta: CTF, VolgaCTF, 2017
 comments: false
 read_time: true

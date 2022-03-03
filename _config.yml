@@ -1,13 +1,13 @@
 lang: en-US
-title: Alexander Pyatkin
-email: aspyatkin@gmail.com
+title: Aleksandr Piatkin
+email: hi@aptkn.ch
 description: >
     Hello there!
-    My name is Alexander Pyatkin.
-    I come from Samara, Russia.
-    I work at Indigo Byte Systems, LLC on Dr.Explain and Tiwri.com.
+    My name is Aleksandr Piatkin.
+    I come from Samara, Russia and reside in Berlin, Germany
+    I work at heycar Group.
 baseurl: ""
-url: "https://aspyatkin.com"
+url: "https://aptkn.ch"
 github_username:  aspyatkin
 
 # Build settings
@@ -18,9 +18,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-timezone: Europe/Samara
+timezone: Europe/Berlin
 
-author: aspyatkin
+author: aptkn
 
 exclude:
   - Gemfile

@@ -6,4 +6,3 @@ google_fonts:
   - name: "Fira Sans Condensed"
 navigation_pages:
   - about.md
-  - oss.md
