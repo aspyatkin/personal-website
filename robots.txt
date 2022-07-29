@@ -3,4 +3,5 @@ layout: ~
 ---
 User-agent: *
 Disallow: /.ssh
+Disallow: /.gpg
 Sitemap: {{ "sitemap.xml" | absolute_url }}
