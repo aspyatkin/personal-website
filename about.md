@@ -27,8 +27,6 @@ Working as a Senior Backend Engineer at [heycar Group](https://hey.car){:target=
 Social media profiles:
 - [GitHub](https://github.com/aspyatkin){:target="_blank"}
 - [LinkedIn](https://www.linkedin.com/in/aptkn/){:target="_blank"}
-- [Goodreads](https://www.goodreads.com/aptkn){:target="_blank"}
-- [IMDb](https://www.imdb.com/user/ur71228508/){:target="_blank"}
 
 #### Sports
 I've been practising [Taekwondo](https://en.wikipedia.org/wiki/Taekwondo){:target="_blank"} [ITF](https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation){:target="_blank"} in 2006--2015. Got awarded a 1st dan degree in 2010, worked as a judge in local competitions organised in Samara region as well as a children's trainer in public school no. 72 in Samara.
