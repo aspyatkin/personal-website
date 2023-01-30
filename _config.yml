@@ -31,4 +31,4 @@ exclude:
 
 include:
   - .ssh
-  # - .gpg
+  - .gpg
