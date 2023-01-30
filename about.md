@@ -5,9 +5,12 @@ permalink: /about/
 ---
 
 ### Bio
-Born on September 17th 1991 in [Samara, Russia](https://www.google.ru/maps/place/Samara,+Samara+Oblast/@53.260908,50.198077,10z/data=!3m1!4b1!4m2!3m1!1s0x416618e22bd879d3:0xba95cda9bb3a030b){:target="_blank"} and lived there till October 2021.
+
+Born on September 17th 1991 in [Samara, Russia](https://www.google.ru/maps/place/Samara,+Samara+Oblast/@53.260908,50.198077,10z/data=!3m1!4b1!4m2!3m1!1s0x416618e22bd879d3:0xba95cda9bb3a030b){:target="_blank"}.
 
 At present, I reside in [Berlin, Germany](https://www.google.com/maps/place/Berlin/@52.5069312,13.1445498,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954){:target="_blank"}.
+
+![Aleksandr Piatkin](/assets/images/aptkn_about.jpg){:width="624px" height="351px"}
 
 #### Secondary education
 Studied in public school no. 124 in Samara from 1998 till 2008, graduated with distinction.
@@ -21,7 +24,7 @@ Studied in [Samara State Aerospace University](http://ssau.ru/english/){:target=
 Worked at [Indigo Byte Systems, LLC](https://indigobyte.com){:target="_blank"} on [Dr.Explain](https://www.drexplain.com){:target="_blank"}, [Tiwri.com](https://www.tiwri.com){:target="_blank"} and [ConferenceCast.tv](https://conferencecast.tv){:target="_blank"}, started as a Junior Developer and worked my way up to a Lead Software Engineer.
 
 ##### from November 2021
-Working as a Senior Backend Engineer at [heycar Group](https://hey.car){:target="_blank"}.
+Working as a Senior Backend Engineer at [heycar](https://hey.car){:target="_blank"}.
 
 #### Online presence
 Social media profiles:
@@ -30,6 +33,37 @@ Social media profiles:
 
 #### Sports
 I've been practising [Taekwondo](https://en.wikipedia.org/wiki/Taekwondo){:target="_blank"} [ITF](https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation){:target="_blank"} in 2006--2015. Got awarded a 1st dan degree in 2010, worked as a judge in local competitions organised in Samara region as well as a children's trainer in public school no. 72 in Samara.
+
+#### Volunteer activities
+Since 2013, I am part of a group of IT enthusiasts from my hometown which holds [VolgaCTF](https://volgactf.ru/en/){:target="_blank"}, an international cybersecurity competition. In total, I have helped organise 12 online and 16 onsite events in Samara and Moscow:
+- [VolgaCTF 2013 Quals](https://ctftime.org/event/75){:target="_blank"} (1-3 May 2013)
+- VolgaCTF 2013 Finals (2-6 Sep 2013)
+- [VolgaCTF 2014 Quals](https://ctftime.org/event/137){:target="_blank"} (28-30 Mar 2014)
+- [VolgaCTF 2014 Finals](https://ctftime.org/event/161){:target="_blank"} (8-12 Sep 2014)
+- SamaraCTF 2015 (1 Mar 2015)
+- [VolgaCTF 2015 Quals](https://ctftime.org/event/197){:target="_blank"} (1-3 May 2015)
+- [VolgaCTF 2015 Finals](https://ctftime.org/event/232){:target="_blank"} (7-11 Sep 2015)
+- [VolgaCTF 2016 Quals](https://ctftime.org/event/279){:target="_blank"} (25-27 Mar 2016)
+- SamaraCTF 2016 (24 Apr 2016)
+- [RCC 2016](https://ctftime.org/event/298){:target="_blank"} (11 May 2016)
+- [VolgaCTF 2016 Finals](https://ctftime.org/event/328){:target="_blank"} (12-16 Sep 2016)
+- [VolgaCTF 2017 Teaser](https://ctftime.org/event/373){:target="_blank"} (25 Feb 2017)
+- [VolgaCTF 2017 Quals](https://ctftime.org/event/374){:target="_blank"} (24-26 Mar 2017)
+- [RCC-2017](https://ctftime.org/event/454){:target="_blank"} (13 May 2017)
+- [VolgaCTF 2017 Finals](https://ctftime.org/event/473){:target="_blank"} (18-22 Sep 2017)
+- SOC-Forum CTF (22 Nov 2017)
+- [VolgaCTF 2018 Quals](https://ctftime.org/event/539){:target="_blank"} (23-25 Mar 2018)
+- [CTF.Moscow 2018](https://ctftime.org/event/602){:target="_blank"} (2 Jun 2018)
+- [VolgaCTF 2018 Final](https://ctftime.org/event/638){:target="_blank"} (17-21 Sep 2018)
+- [VolgaCTF 2019 Qualifier](https://ctftime.org/event/713){:target="_blank"} (29-31 Mar 2019)
+- [CTF.Moscow 2019](https://ctftime.org/event/795){:target="_blank"} (10 Jun 2019)
+- [VolgaCTF 2019 Final](https://ctftime.org/event/796){:target="_blank"} (16-20 Sep 2019)
+- [VolgaCTF 2020 Qualifier](https://ctftime.org/event/933){:target="_blank"} (27-29 Mar 2020)
+- [VolgaCTF 2020 Final](https://ctftime.org/event/1018){:target="_blank"} (14-18 Sep 2020)
+- [VolgaCTF 2021 Qualifier](https://ctftime.org/event/1229){:target="_blank"} (27-28 Mar 2021)
+- [VolgaCTF 2021 Final](https://ctftime.org/event/1335){:target="_blank"} (13-17 Sep 2021)
+- [VolgaCTF 2022 Qualifier](https://ctftime.org/event/1551){:target="_blank"} (14-15 Mar 2022)
+- [VolgaCTF 2022 Final](https://ctftime.org/event/1679){:target="_blank"} (19-23 Sep 2022)
 
 #### Foreign languages
 

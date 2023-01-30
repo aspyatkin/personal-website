@@ -3,8 +3,8 @@ title: Aleksandr Piatkin
 description: >
     Hello there!
     My name is Aleksandr Piatkin.
-    I come from Samara, Russia and reside in Berlin, Germany
-    I work at heycar Group.
+    I come from Samara, Russia and reside in Berlin, Germany.
+    I work as a software engineer at heycar.
 baseurl: ""
 url: "https://aptkn.ch"
 github_username:  aspyatkin
@@ -31,5 +31,4 @@ exclude:
 
 include:
   - .ssh
-  - .gpg
-
+  # - .gpg
