@@ -24,7 +24,7 @@ Studied in [Samara State Aerospace University](http://ssau.ru/english/){:target=
 Worked at [Indigo Byte Systems, LLC](https://indigobyte.com){:target="_blank"} on [Dr.Explain](https://www.drexplain.com){:target="_blank"}, [Tiwri.com](https://www.tiwri.com){:target="_blank"} and [ConferenceCast.tv](https://conferencecast.tv){:target="_blank"}, started as a Junior Developer and worked my way up to a Lead Software Engineer.
 
 ##### from November 2021
-Working as a Senior Backend Engineer at [heycar](https://hey.car){:target="_blank"}.
+Working at [heycar](https://hey.car){:target="_blank"}, started as a Senior Backend Engineer and got promoted to a Principal Backend Engineer in August 2023.
 
 #### Online presence
 Social media profiles:
@@ -35,7 +35,7 @@ Social media profiles:
 I've been practising [Taekwondo](https://en.wikipedia.org/wiki/Taekwondo){:target="_blank"} [ITF](https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation){:target="_blank"} in 2006--2015. Got awarded a 1st dan degree in 2010, worked as a judge in local competitions organised in Samara region as well as a children's trainer in public school no. 72 in Samara.
 
 #### Volunteer activities
-Since 2013, I am part of a group of IT enthusiasts from my hometown which holds [VolgaCTF](https://volgactf.ru/en/){:target="_blank"}, an international cybersecurity competition. In total, I have helped organise 12 online and 16 onsite events in Samara and Moscow:
+Since 2013, I am part of a group of IT enthusiasts from my hometown which holds [VolgaCTF](https://volgactf.ru/en/){:target="_blank"}, an international cybersecurity competition. In total, I have helped organise 13 online and 17 onsite events in Samara and Moscow:
 - [VolgaCTF 2013 Quals](https://ctftime.org/event/75){:target="_blank"} (1-3 May 2013)
 - VolgaCTF 2013 Finals (2-6 Sep 2013)
 - [VolgaCTF 2014 Quals](https://ctftime.org/event/137){:target="_blank"} (28-30 Mar 2014)
@@ -64,6 +64,8 @@ Since 2013, I am part of a group of IT enthusiasts from my hometown which holds 
 - [VolgaCTF 2021 Final](https://ctftime.org/event/1335){:target="_blank"} (13-17 Sep 2021)
 - [VolgaCTF 2022 Qualifier](https://ctftime.org/event/1551){:target="_blank"} (14-15 Mar 2022)
 - [VolgaCTF 2022 Final](https://ctftime.org/event/1679){:target="_blank"} (19-23 Sep 2022)
+- [VolgaCTF 2023 Qualifier](https://ctftime.org/event/1847){:target="_blank"} (13-14 May 2023)
+- [VolgaCTF 2023 Final](https://ctftime.org/event/2068){:target="_blank"} (11-15 Sep 2023)
 
 #### Foreign languages
 
