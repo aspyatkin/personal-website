@@ -24,7 +24,7 @@ Studied in [Samara State Aerospace University](http://ssau.ru/english/){:target=
 Worked at [Indigo Byte Systems, LLC](https://indigobyte.com){:target="_blank"} on [Dr.Explain](https://www.drexplain.com){:target="_blank"}, [Tiwri.com](https://www.tiwri.com){:target="_blank"} and [ConferenceCast.tv](https://conferencecast.tv){:target="_blank"}, started as a Junior Developer and worked my way up to a Lead Software Engineer.
 
 ##### from November 2021
-Working at [heycar](https://hey.car){:target="_blank"}, started as a Senior Backend Engineer and got promoted to a Principal Backend Engineer in August 2023.
+Working at [heycar](https://hey.car){:target="_blank"}, started as a Senior Software Engineer and got promoted to a Principal Software Engineer in August 2023.
 
 #### Online presence
 Social media profiles:
