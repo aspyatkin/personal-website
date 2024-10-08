@@ -14,7 +14,7 @@ Koppoldstr. 1
 **Kontakt:**
 
 Telefon: +④⑨ ①⑤⑥⑦⑨ ⑤③④⑨⑨⑨  
-E-Mail: ⓚⓞⓝⓣⓐⓚⓣ@ⓐⓟⓣⓚⓝ.ⓒⓗ
+E-Mail: ⓀⓄⓃⓉⒶⓀⓉ @ ⒶⓅⓉⓀⓃ . ⒸⒽ
 
 **Haftungsausschluss:**
 
