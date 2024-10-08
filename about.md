@@ -6,17 +6,17 @@ permalink: /about/
 
 ### Bio
 
-Born on September 17th 1991 in [Samara, Russia](https://www.google.ru/maps/place/Samara,+Samara+Oblast/@53.260908,50.198077,10z/data=!3m1!4b1!4m2!3m1!1s0x416618e22bd879d3:0xba95cda9bb3a030b){:target="_blank"}.
+Born in [Samara, Russia](https://www.google.ru/maps/place/Samara,+Samara+Oblast/@53.260908,50.198077,10z/data=!3m1!4b1!4m2!3m1!1s0x416618e22bd879d3:0xba95cda9bb3a030b){:target="_blank"}.
 
 At present, I reside in [Berlin, Germany](https://www.google.com/maps/place/Berlin/@52.5069312,13.1445498,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954){:target="_blank"}.
 
 ![Aleksandr Piatkin](/assets/images/aptkn_about.jpg){:width="624px" height="351px"}
 
 #### Secondary education
-Studied in public school no. 124 in Samara from 1998 till 2008, graduated with distinction.
+Studied in public school no. 124 in Samara, graduated with distinction.
 
 #### Higher education
-Studied in [Samara State Aerospace University](http://ssau.ru/english/){:target="_blank"} from 2008 till 2013, graduated with distinction and got awarded a specialist degree in computer security.
+Studied in [Samara State Aerospace University](http://ssau.ru/english/){:target="_blank"}, graduated with distinction and got awarded a specialist degree in computer security.
 
 #### Employment
 
@@ -24,7 +24,7 @@ Studied in [Samara State Aerospace University](http://ssau.ru/english/){:target=
 Worked at [Indigo Byte Systems, LLC](https://indigobyte.com){:target="_blank"} on [Dr.Explain](https://www.drexplain.com){:target="_blank"}, [Tiwri.com](https://www.tiwri.com){:target="_blank"} and [ConferenceCast.tv](https://conferencecast.tv){:target="_blank"}, started as a Junior Developer and worked my way up to a Lead Software Engineer.
 
 ##### from November 2021
-Working at [heycar](https://hey.car){:target="_blank"} as a Principal Software Engineer (was promoted from Senior Software Engineer in August 2023).
+Working at [heycar](https://heycar.com){:target="_blank"} as a Principal Software Engineer (was promoted from Senior Software Engineer in August 2023).
 
 #### Online presence
 Social media profiles:
@@ -32,10 +32,10 @@ Social media profiles:
 - [LinkedIn](https://www.linkedin.com/in/aptkn/){:target="_blank"}
 
 #### Sports
-I've been practising [Taekwondo](https://en.wikipedia.org/wiki/Taekwondo){:target="_blank"} [ITF](https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation){:target="_blank"} in 2006--2015. Got awarded a 1st dan degree in 2010, worked as a judge in local competitions organised in Samara region as well as a children's trainer in public school no. 72 in Samara.
+I've been practising [Taekwondo](https://en.wikipedia.org/wiki/Taekwondo){:target="_blank"} [ITF](https://en.wikipedia.org/wiki/International_Taekwon-Do_Federation){:target="_blank"} for 10 years in my teenagehood and emerging adulthood. Got awarded a 1st dan degree in 2010, worked as a judge in local competitions organised in Samara region as well as a children's trainer in public school no. 72 in Samara.
 
 #### Volunteer activities
-Since 2013, I am part of a group of IT enthusiasts from my hometown which holds [VolgaCTF](https://volgactf.ru/en/){:target="_blank"}, an international cybersecurity competition. In total, I have helped organise 13 online and 17 onsite events in Samara and Moscow:
+Since 2013, I am part of a group of IT enthusiasts from my hometown which holds [VolgaCTF](https://volgactf.ru/en/){:target="_blank"}, an international cybersecurity competition. In total, I have facilitated the organisation of 14 online and 18 onsite events in Samara and Moscow:
 - [VolgaCTF 2013 Quals](https://ctftime.org/event/75){:target="_blank"} (1-3 May 2013)
 - VolgaCTF 2013 Finals (2-6 Sep 2013)
 - [VolgaCTF 2014 Quals](https://ctftime.org/event/137){:target="_blank"} (28-30 Mar 2014)
@@ -66,6 +66,8 @@ Since 2013, I am part of a group of IT enthusiasts from my hometown which holds 
 - [VolgaCTF 2022 Final](https://ctftime.org/event/1679){:target="_blank"} (19-23 Sep 2022)
 - [VolgaCTF 2023 Qualifier](https://ctftime.org/event/1847){:target="_blank"} (13-14 May 2023)
 - [VolgaCTF 2023 Final](https://ctftime.org/event/2068){:target="_blank"} (11-15 Sep 2023)
+- [VolgaCTF 2024 Qualifier](https://ctftime.org/event/2200){:target="_blank"} (30-31 Mar 2024)
+- [VolgaCTF 2024 Final](https://ctftime.org/event/){:target="_blank"} (17-20 Sep 2024)
 
 #### Foreign languages
 
@@ -77,13 +79,13 @@ Result: `Pass`
 CEFR level: `B1`
 
 **[FCE](http://www.cambridgeenglish.org/exams/first/){:target="_blank"}**  
-I took FCE on June 4th, 2016.  
+I took FCE in June 2016.  
 Result: `Pass at Grade A`  
 CEFR level: `C1`  
 [Statement of results](/assets/files/FCE-StatementOfResults.pdf){:target="_blank"}
 
 **[CAE](http://www.cambridgeenglish.org/exams/advanced/){:target="_blank"}**  
-I took CAE on March 11th, 2017.  
+I took CAE in March 2017.  
 Result: `Pass at Grade A`  
 CEFR level: `C2`  
 [Statement of results](/assets/files/CAE-StatementOfResults.pdf){:target="_blank"}
