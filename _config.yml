@@ -28,6 +28,9 @@ exclude:
   - README.md
   - script
   - logs
+  - entrypoint.sh
+  - Dockerfile
+  - Dockerfile.dev
 
 include:
   - .ssh
