@@ -2,7 +2,7 @@
 layout: post
 title: 'VolgaCTF 2025 Qualifier: report'
 permalink: /volgactf-2025-qualifier-report/
-date: 2025-04-13 17:00:00 +0200
+date: 2025-03-31 10:00:00 +0200
 author: aptkn
 meta: CTF, VolgaCTF, 2025, Qualifier
 comments: false
@@ -10,7 +10,7 @@ read_time: true
 image: /assets/volgactf-2025-qualifier/img/cover.jpg
 ---
 
-On the weekend, [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team held its annual qualifier event, namely [VolgaCTF 2025 Qualifier](https://ctftime.org/event/2676){:target="_blank"}.
+On March 29-30th, [VolgaCTF.org](https://ctftime.org/team/27094){:target="_blank"} team held its annual qualifier event, namely [VolgaCTF 2025 Qualifier](https://ctftime.org/event/2676){:target="_blank"}.
 
 The report elaborates on some key metrics that were collected during the competition this year. The data is compared against [VolgaCTF 2024 Qualifier](https://ctftime.org/event/2200).
 
@@ -55,7 +55,7 @@ Sign up was made available on March 3rd and teams could register up to the end o
 <br>
 
 ### Number of teams
-This year saw a contunious decline in the number of teams playing:
+This year saw a continuous decline in the number of teams playing:
 
 | Number of teams | VolgaCTF 2025 Qualifier | VolgaCTF 2024 Qualifier | Change |
 | --------------- | ------------------- | ------------------- | ------ |
@@ -371,7 +371,7 @@ And here is a comparison table:
 | Categories | misc |
 | Opened | Mar 30 at 10:40 UTC |
 | Flags submitted | 72<br><small>first on Mar 30 at 10:43 UTC</small><br><small>last on Mar 30 at 11:59 UTC</small> |
-| Solved | by 66 teams<br><small>first on Mar 30 at 10:43 UTC by [AreD@Yush?](https://ctftime.org/team/){:target="_blank"}</small><br><small>last on Mar 30 at 11:59 UTC</small> |
+| Solved | by 66 teams<br><small>first on Mar 30 at 10:43 UTC by [AreD@Yush?](https://ctftime.org/team/230725){:target="_blank"}</small><br><small>last on Mar 30 at 11:59 UTC</small> |
 | Rated | <span class="review-good">4.6</span> <small>(based on 14 reviews)</small> |
 {:.mbtablestyle}
 
