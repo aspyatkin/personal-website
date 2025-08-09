@@ -26,6 +26,9 @@ Worked at [Indigo Byte Systems, LLC](https://indigobyte.com){:target="_blank"} o
 ##### November 2021 -- July 2025
 Worked at [heycar](https://heycar.com){:target="_blank"} as a Principal Software Engineer (was promoted from Senior Software Engineer in August 2023).
 
+##### August 2025 -- current
+Working at [Moss](https://getmoss.com/){:target="_blank"} as a Senior Software Engineer.
+
 #### Online presence
 Social media profiles:
 - [GitHub](https://github.com/aspyatkin){:target="_blank"}
@@ -69,6 +72,7 @@ Since 2013, I am part of a group of IT enthusiasts from my hometown which holds 
 - [VolgaCTF 2024 Qualifier](https://ctftime.org/event/2200){:target="_blank"} (30-31 Mar 2024)
 - [VolgaCTF 2024 Final](https://ctftime.org/event/){:target="_blank"} (17-20 Sep 2024)
 - [VolgaCTF 2025 Qualifier](https://ctftime.org/event/2676){:target="_blank"} (29-30 Mar 2025)
+- [VolgaCTF 2025 Final](https://ctftime.org/event/2892){:target="_blank"} (15-19 Sep 2025)
 
 #### Foreign languages
 
