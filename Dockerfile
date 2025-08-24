@@ -19,6 +19,6 @@ RUN apk add --no-cache --virtual .deps g++ gcc make musl-dev && \
 	bundle exec jekyll build && \
 	apk del .deps
 
-RUN addgroup johndoe && adduser --disabled-password --gecos "" --ingroup johndoe --no-create-home johndoe && chown -R johndoe:johndoe .
+RUN apk add rsync && addgroup johndoe && adduser --disabled-password --gecos "" --ingroup johndoe --no-create-home johndoe && chown -R johndoe:johndoe .
 USER johndoe
 ENTRYPOINT ["/bin/sh", "entrypoint.sh"]
